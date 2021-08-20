@@ -14,6 +14,7 @@ How to set up Windows 10
 - Adobe Acrobat Reader DC: https://get.adobe.com/de/reader/otherversions/
 - VLC Media Player: https://www.videolan.org/vlc/#download
 - Microsoft Office: https://www.office.com/
+- Google Chrome: https://www.google.com/intl/en-US/chrome/
 
 ## Notes
 - Achitecture: 64bit instead of 32bit (CPU + OS)
