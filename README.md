@@ -41,8 +41,11 @@ How to set up Windows 10
 - Go to the Windows Desktop by pressing `Win` + `D`
 - Right click on the Windows icon in the bottom left
 - Click on `Windows PowerShell (Administrator)`
-- Enter the following command and press enter:
+- Copy the following command:
 
 ```
 Get-AppxPackage -allusers Microsoft.549981C3F5F10 | Remove-AppxPackage
 ```
+
+- Paste it in the Windows PowerShell by pressing `Right click`
+- Press Enter
