@@ -30,7 +30,7 @@ How to set up Windows 10
 - Zoom: https://zoom.us/download
 - Cisco Webex Meetings: https://www.webex.com/downloads.html
 
-## Notes
+## Notes: WhyNotWin11
 - Achitecture: 64bit instead of 32bit (CPU + OS)
 - Boot method: UEFI instead of Legacy
 - Disk partition type: GPT instead of MBR
