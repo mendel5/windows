@@ -11,7 +11,7 @@ How to set up Windows 10
 ## Programs
 - Mozilla Firefox: https://www.mozilla.org/en-US/firefox/all/
 - Mozilla Thunderbird: https://www.thunderbird.net/en-US/thunderbird/all/
-- Adobe Acrobat Reader DC: https://get.adobe.com/de/reader/otherversions/
+- Adobe Acrobat Reader DC: https://get.adobe.com/reader/otherversions/
 - PDF24 Creator: https://tools.pdf24.org/en/creator
 - VLC Media Player: https://www.videolan.org/vlc/#download
 - Microsoft Office: https://www.office.com/
