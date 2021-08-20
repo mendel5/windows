@@ -26,9 +26,9 @@ How to set up Windows 10
 - 7-Zip: https://www.7-zip.org/download.html
 
 ## Video telephony
-- Microsoft Teams:
-- Zoom:
-- Cisco Webex Meetings:
+- Microsoft Teams: https://www.microsoft.com/en-us/microsoft-teams/download-app
+- Zoom: https://zoom.us/download
+- Cisco Webex Meetings: https://www.webex.com/downloads.html
 
 ## Notes
 - Achitecture: 64bit instead of 32bit (CPU + OS)
