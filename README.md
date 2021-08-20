@@ -12,16 +12,23 @@ How to set up Windows 10
 - Mozilla Firefox: https://www.mozilla.org/en-US/firefox/all/
 - Mozilla Thunderbird: https://www.thunderbird.net/en-US/thunderbird/all/
 - Adobe Acrobat Reader DC: https://get.adobe.com/de/reader/otherversions/
-- PDF24: 
+- PDF24 Creator: https://tools.pdf24.org/en/creator
 - VLC Media Player: https://www.videolan.org/vlc/#download
 - Microsoft Office: https://www.office.com/
-- LibreOffice: 
+- LibreOffice: https://www.libreoffice.org/download/download/
 - Google Chrome: https://www.google.com/intl/en-US/chrome/
-- Notepad++: 
+- Notepad++: https://notepad-plus-plus.org/downloads/
 
 ## System tools
 - Sysinternals ProcessExplorer:
 - Sysinternals AutoRuns:
+- Greenshot:
+- 7-Zip:
+
+## Video telephony
+- Microsoft Teams:
+- Zoom:
+- Cisco Webex Meetings:
 
 ## Notes
 - Achitecture: 64bit instead of 32bit (CPU + OS)
