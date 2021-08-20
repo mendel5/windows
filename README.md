@@ -2,11 +2,18 @@
 How to set up Windows 10
 
 ## Links
-- https://www.oo-software.com/en/shutup10
-- https://community.spiceworks.com/scripts/show/4378-windows-10-decrapifier-18xx-19xx-2xxx
-- https://praxistipps.chip.de/cortana-vollstaendig-deinstallieren-so-gehts_44689
-- https://www.netzwelt.de/anleitung/180485-windows-10-cortana-deinstallierenso-gehts.html
-- https://github.com/rcmaehl/WhyNotWin11
+- O&O ShutUp10: https://www.oo-software.com/en/shutup10
+- Windows 10 Decrapifier: https://community.spiceworks.com/scripts/show/4378-windows-10-decrapifier-18xx-19xx-2xxx
+- Cortana vollständig deinstallieren: https://praxistipps.chip.de/cortana-vollstaendig-deinstallieren-so-gehts_44689
+- Windows 10: Cortana deinstallieren: https://www.netzwelt.de/anleitung/180485-windows-10-cortana-deinstallierenso-gehts.html
+- WhyNotWin11: https://github.com/rcmaehl/WhyNotWin11
+
+## Programme
+- Mozilla Firefox: https://www.mozilla.org/en-US/firefox/all/
+- Mozilla Thunderbird: https://www.thunderbird.net/en-US/thunderbird/all/
+- Adobe Acrobat Reader DC: https://get.adobe.com/de/reader/otherversions/
+- VLC Media Player: https://www.videolan.org/vlc/#download
+- Microsoft Office: https://www.office.com/
 
 ## Notes
 - Achitecture: 64bit instead of 32bit (CPU + OS)
