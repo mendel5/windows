@@ -6,6 +6,8 @@ How to set up Windows 10
 - Windows 10 Decrapifier: https://community.spiceworks.com/scripts/show/4378-windows-10-decrapifier-18xx-19xx-2xxx
 - YES _ Windows 10: Cortana deinstallieren: https://www.netzwelt.de/anleitung/180485-windows-10-cortana-deinstallierenso-gehts.html
 - Cortana vollständig deinstallieren: https://praxistipps.chip.de/cortana-vollstaendig-deinstallieren-so-gehts_44689
+- Windows 10 OneDrive entfernen: https://www.netzwelt.de/tutorial/163642-windows-10-so-deinstalliert-onedrive.html
+- OneDrive deinstallieren: https://www.heise.de/tipps-tricks/OneDrive-deinstallieren-so-geht-s-4975944.html
 - WhyNotWin11: https://github.com/rcmaehl/WhyNotWin11
 
 ## Programs
@@ -30,7 +32,18 @@ How to set up Windows 10
 - Zoom: https://zoom.us/download
 - Cisco Webex Meetings: https://www.webex.com/downloads.html
 
-## Notes: WhyNotWin11
+## WhyNotWin11
 - Achitecture: 64bit instead of 32bit (CPU + OS)
 - Boot method: UEFI instead of Legacy
 - Disk partition type: GPT instead of MBR
+
+## Uninstall Cortana
+- Go to the Windows Desktop by pressing `Win` + `D`
+- Right click on the Windows icon in the bottom left
+- Click on `Windows PowerShell (Administrator)`
+- Enter the following command:
+
+```
+Get-AppxPackage -allusers Microsoft.549981C3F5F10 | Remove-AppxPackage
+```
+
