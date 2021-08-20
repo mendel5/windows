@@ -8,6 +8,8 @@ How to set up Windows 10
 - Cortana vollständig deinstallieren: https://praxistipps.chip.de/cortana-vollstaendig-deinstallieren-so-gehts_44689
 - Windows 10 OneDrive entfernen: https://www.netzwelt.de/tutorial/163642-windows-10-so-deinstalliert-onedrive.html
 - OneDrive deinstallieren: https://www.heise.de/tipps-tricks/OneDrive-deinstallieren-so-geht-s-4975944.html
+- YES _ Web-Suche in Windows 10 deaktivieren (mit Gruppenrichtlinien): https://www.windowspro.de/wolfgang-sommergut/web-suche-windows-10-deaktivieren-gruppenrichtlinien
+- Windows 10 - Websuche im Startmenü deaktivieren: https://www.bennetrichter.de/anleitungen/windows-10-websuche-deaktivieren/
 - WhyNotWin11: https://github.com/rcmaehl/WhyNotWin11
 
 ## Programs
