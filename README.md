@@ -20,10 +20,10 @@ How to set up Windows 10
 - Notepad++: https://notepad-plus-plus.org/downloads/
 
 ## System tools
-- Sysinternals ProcessExplorer:
-- Sysinternals AutoRuns:
-- Greenshot:
-- 7-Zip:
+- Sysinternals Process Explorer: https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
+- Sysinternals Autoruns: https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
+- Greenshot: https://getgreenshot.org/downloads/ and https://github.com/greenshot/greenshot
+- 7-Zip: https://www.7-zip.org/download.html
 
 ## Video telephony
 - Microsoft Teams:
