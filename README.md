@@ -1,7 +1,7 @@
 # windows-setup
 How to set up Windows 10
 
-## Links
+## Windows
 - O&O ShutUp10: https://www.oo-software.com/en/shutup10
 - Windows 10 Decrapifier: https://community.spiceworks.com/scripts/show/4378-windows-10-decrapifier-18xx-19xx-2xxx
 - Cortana vollständig deinstallieren: https://praxistipps.chip.de/cortana-vollstaendig-deinstallieren-so-gehts_44689
