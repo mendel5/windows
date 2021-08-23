@@ -52,3 +52,10 @@ Get-AppxPackage -allusers Microsoft.549981C3F5F10 | Remove-AppxPackage
 
 - Paste it in the Windows PowerShell by pressing `Right click`
 - Press Enter
+
+If the command above does not work, try one of these commands:
+```
+Get-AppxPackage *Microsoft.549981C3F5F10* -AllUsers | Remove-AppxPackage -AllUsers
+
+Get-AppxPackage *Microsoft.549981C3F5F10* -AllUsers | Remove-AppxPackage
+```
