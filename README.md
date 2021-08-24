@@ -23,6 +23,7 @@ How to set up Windows 10
 - LibreOffice: https://www.libreoffice.org/download/download/
 - Google Chrome: https://www.google.com/intl/en-US/chrome/
 - Notepad++: https://notepad-plus-plus.org/downloads/
+- iMazing HEIC Converter: https://imazing.com/heic/download
 
 ## System tools
 - Sysinternals Process Explorer: https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
