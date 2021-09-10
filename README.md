@@ -60,3 +60,6 @@ Get-AppxPackage *Microsoft.549981C3F5F10* -AllUsers | Remove-AppxPackage -AllUse
 
 Get-AppxPackage *Microsoft.549981C3F5F10* -AllUsers | Remove-AppxPackage
 ```
+
+## Drivers
+- Snappy Driver Installer Origin https://www.snappy-driver-installer.org/ (use with caution)
