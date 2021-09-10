@@ -63,5 +63,6 @@ Get-AppxPackage *Microsoft.549981C3F5F10* -AllUsers | Remove-AppxPackage
 
 ## Other
 - Snappy Driver Installer Origin: https://www.snappy-driver-installer.org/ (use with caution)
+- Patch My PC (Check for outdated software): https://patchmypc.com/home-updater
 - Samsung Magician Software for SSDs: https://www.samsung.com/semiconductor/minisite/ssd/download/tools/
 - Portable Apps: https://portableapps.com/
