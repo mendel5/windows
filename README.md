@@ -66,9 +66,10 @@ Get-AppxPackage *Microsoft.549981C3F5F10* -AllUsers | Remove-AppxPackage
 
 ## Rename a Wired Network Connection
 
+
 Sources:
-- Link 1
-- Link 2
+- https://www.tecchannel.de/a/netzwerknamen-unter-windows-10-aendern,3277868
+- https://www.pctipp.ch/praxis/windows/windows-10-netzwerke-umbenennen-so-gehts-2002978.html
 
 ## Other
 - Snappy Driver Installer Origin: https://www.snappy-driver-installer.org/ (use with caution)
