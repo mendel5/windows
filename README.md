@@ -41,6 +41,9 @@ How to set up Windows 10
 - Boot method: UEFI instead of Legacy
 - Disk partition type: GPT instead of MBR
 
+Source:
+- https://github.com/rcmaehl/WhyNotWin11
+
 ## Uninstall Cortana
 - Go to the Windows Desktop by pressing `Win` + `D`
 - Right click on the Windows icon in the bottom left
@@ -60,6 +63,12 @@ Get-AppxPackage *Microsoft.549981C3F5F10* -AllUsers | Remove-AppxPackage -AllUse
 
 Get-AppxPackage *Microsoft.549981C3F5F10* -AllUsers | Remove-AppxPackage
 ```
+
+## Rename a Wired Network Connection
+
+Sources:
+- Link 1
+- Link 2
 
 ## Other
 - Snappy Driver Installer Origin: https://www.snappy-driver-installer.org/ (use with caution)
