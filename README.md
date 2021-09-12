@@ -65,7 +65,13 @@ Get-AppxPackage *Microsoft.549981C3F5F10* -AllUsers | Remove-AppxPackage
 ```
 
 ## Rename a Wired Network Connection
-
+- Press `Win` + `R`
+- Enter `regedit.exe` or simply `regedit`
+- Open this path:
+```
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\NetworkList\Profiles
+```
+- The profiles are listed in the folders below
 
 Sources:
 - https://www.tecchannel.de/a/netzwerknamen-unter-windows-10-aendern,3277868
