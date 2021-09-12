@@ -67,6 +67,7 @@ Get-AppxPackage *Microsoft.549981C3F5F10* -AllUsers | Remove-AppxPackage
 ## Rename a Wired Network Connection
 - Press `Win` + `R`
 - Enter `regedit.exe` or simply `regedit`
+- Open the app as an admin, e.g. by pressing `Ctrl` + `Shift` + `Enter`
 - Open this path:
 ```
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\NetworkList\Profiles
