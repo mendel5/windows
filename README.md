@@ -88,11 +88,5 @@ Sources:
 - Portable Apps: https://portableapps.com/
 
 ## Network Scanner
-- https://www.advanced-ip-scanner.com
-- https://www.heise.de/download/product/advanced-ip-scanner-19718
-- https://angryip.org
-
-remove:
-- https://www.chip.de/download/tag_netzwerkscanner_Netzwerkscanner/gesamt-charts-freeware/
-- https://nmap.org/zenmap/
-- https://geekflare.com/network-scanner/
+- Advanced IP Scanner: https://www.advanced-ip-scanner.com
+- Angry IP Scanner: https://angryip.org
