@@ -1,5 +1,7 @@
 # windows-setup
-How to set up Windows 10
+How to set up Windows 10.
+
+Note: The content is focused on Germany.
 
 ## Windows
 - O&O ShutUp10: https://www.oo-software.com/en/shutup10
