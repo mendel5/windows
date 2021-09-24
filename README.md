@@ -88,9 +88,9 @@ Sources:
 - Portable Apps: https://portableapps.com/
 
 ## Network Scanner
-- https://angryip.org/
-- https://www.advanced-ip-scanner.com/
+- https://www.advanced-ip-scanner.com
 - https://www.heise.de/download/product/advanced-ip-scanner-19718
+- https://angryip.org
 
 remove:
 - https://www.chip.de/download/tag_netzwerkscanner_Netzwerkscanner/gesamt-charts-freeware/
