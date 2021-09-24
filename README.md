@@ -88,9 +88,11 @@ Sources:
 - Portable Apps: https://portableapps.com/
 
 ## Network Scanner
-- https://www.chip.de/download/tag_netzwerkscanner_Netzwerkscanner/gesamt-charts-freeware/
 - https://angryip.org/
-- https://nmap.org/zenmap/
 - https://www.advanced-ip-scanner.com/
 - https://www.heise.de/download/product/advanced-ip-scanner-19718
+
+remove:
+- https://www.chip.de/download/tag_netzwerkscanner_Netzwerkscanner/gesamt-charts-freeware/
+- https://nmap.org/zenmap/
 - https://geekflare.com/network-scanner/
