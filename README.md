@@ -86,3 +86,11 @@ Sources:
 - Patch My PC (Check for outdated software): https://patchmypc.com/home-updater
 - Samsung Magician Software for SSDs: https://www.samsung.com/semiconductor/minisite/ssd/download/tools/
 - Portable Apps: https://portableapps.com/
+
+## Network Scanner
+- https://www.chip.de/download/tag_netzwerkscanner_Netzwerkscanner/gesamt-charts-freeware/
+- https://angryip.org/
+- https://nmap.org/zenmap/
+- https://www.advanced-ip-scanner.com/
+- https://www.heise.de/download/product/advanced-ip-scanner-19718
+- https://geekflare.com/network-scanner/
