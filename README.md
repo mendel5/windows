@@ -92,3 +92,11 @@ Sources:
 ## Network Scanner
 - Advanced IP Scanner: https://www.advanced-ip-scanner.com
 - Angry IP Scanner: https://angryip.org
+
+## Change hostname
+- Press the `Windows` key in the bottom left
+- Search for `PC Info`
+- Click on `Rename this PC`
+
+Sources:
+- https://support.microsoft.com/en-us/windows/rename-your-windows-10-pc-750bc75d-8ff8-e99a-b9dc-04dff566ae74
