@@ -100,3 +100,8 @@ Sources:
 
 Sources:
 - https://support.microsoft.com/en-us/windows/rename-your-windows-10-pc-750bc75d-8ff8-e99a-b9dc-04dff566ae74
+
+## Password of SMB fileshares
+- Press `Win` + `R`
+- Enter `netplwiz.exe`
+
