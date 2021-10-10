@@ -17,14 +17,14 @@ Note: The content is focused on Germany.
 
 ## Programs
 - Mozilla Firefox: https://www.mozilla.org/en-US/firefox/all/
+- Google Chrome: https://www.google.com/intl/en-US/chrome/
 - Mozilla Thunderbird: https://www.thunderbird.net/en-US/thunderbird/all/
 - Adobe Acrobat Reader DC: https://get.adobe.com/reader/otherversions/
 - PDF24 Creator: https://tools.pdf24.org/en/creator
-- VLC Media Player: https://www.videolan.org/vlc/#download
+- Notepad++: https://notepad-plus-plus.org/downloads/
 - Microsoft Office: https://www.office.com/
 - LibreOffice: https://www.libreoffice.org/download/download/
-- Google Chrome: https://www.google.com/intl/en-US/chrome/
-- Notepad++: https://notepad-plus-plus.org/downloads/
+- VLC Media Player: https://www.videolan.org/vlc/#download
 - iMazing HEIC Converter: https://imazing.com/heic/download
 
 ## System tools
