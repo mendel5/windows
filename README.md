@@ -47,7 +47,6 @@ Source:
 - https://github.com/rcmaehl/WhyNotWin11
 
 ## Uninstall Cortana
-- Go to the Windows Desktop by pressing `Win` + `D`
 - Right click on the Windows icon in the bottom left
 - Click on `Windows PowerShell (Administrator)`
 - Copy the following command:
