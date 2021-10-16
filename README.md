@@ -82,6 +82,9 @@ Sources:
 - https://www.tecchannel.de/a/netzwerknamen-unter-windows-10-aendern,3277868
 - https://www.pctipp.ch/praxis/windows/windows-10-netzwerke-umbenennen-so-gehts-2002978.html
 
+## Adware
+- https://www.malwarebytes.com/adwcleaner
+
 ## Other
 - Snappy Driver Installer Origin: https://www.snappy-driver-installer.org/ (use with caution)
 - Patch My PC (Check for outdated software): https://patchmypc.com/home-updater
