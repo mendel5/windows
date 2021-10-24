@@ -108,10 +108,8 @@ Sources:
 - Enter `netplwiz.exe`
 
 ## Remove Web Results from Windows Search
-- Suche: Gruppenrichtlinien bearbeiten / Group Policy
-
-
-"Nicht im Web suchen und keine Webergebnisse in der Suche anzeigen"
-Administrative Vorlagen
-Windows-Komponenten
-Suche
+- Suche: `Gruppenrichtlinien bearbeiten` / `Group Policy`
+- `Administrative Vorlagen`
+- `Windows-Komponenten`
+- `Suche`
+- `Nicht im Web suchen und keine Webergebnisse in der Suche anzeigen`
