@@ -108,7 +108,7 @@ Sources:
 - Enter `netplwiz.exe`
 
 ## Remove Web Results from Windows Search
-- Suche: `Gruppenrichtlinien bearbeiten` / `Group Policy`
+- Suche: `Gruppenrichtlinien bearbeiten` / `gpedit.msc`
 - `Administrative Vorlagen`
 - `Windows-Komponenten`
 - `Suche`
