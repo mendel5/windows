@@ -113,3 +113,7 @@ Sources:
 - `Windows-Komponenten`
 - `Suche`
 - `Nicht im Web suchen und keine Webergebnisse in der Suche anzeigen`
+
+## Remove or Uninstall Programs
+If a programm cannot be uninstalled successfully by the standard procedures, this program might help.
+- Revo Uninstaller Free: https://www.revouninstaller.com/revo-uninstaller-free-download/
