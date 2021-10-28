@@ -117,3 +117,6 @@ Sources:
 ## Remove or Uninstall Programs
 If a programm cannot be uninstalled successfully by the standard procedures, this program might help.
 - Revo Uninstaller Free: https://www.revouninstaller.com/revo-uninstaller-free-download/
+
+## Disable Bing in the Start Menu Search
+- https://www.howtogeek.com/224159/how-to-disable-bing-in-the-windows-10-start-menu/
