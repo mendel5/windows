@@ -120,3 +120,8 @@ If a programm cannot be uninstalled successfully by the standard procedures, thi
 
 ## Disable Bing in the Start Menu Search
 - https://www.howtogeek.com/224159/how-to-disable-bing-in-the-windows-10-start-menu/
+
+## Disable OneDrive Synchronization
+- https://www.cbackup.com/articles/stop-onedrive-from-syncing-6688.html
+- https://www.minitool.com/backup-tips/how-to-disable-onedrive.html
+- https://helpdeskgeek.com/windows-10/how-to-disable-onedrive-on-your-windows-10-pc-why-youd-want-to/
