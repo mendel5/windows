@@ -3,6 +3,12 @@ How to set up Windows 10.
 
 Note: The content is focused on Germany.
 
+## Microsoft account
+- https://account.microsoft.com Microsoft account overview
+- https://account.microsoft.com/devices Devices linked to my Microsoft account
+- https://account.microsoft.com/services/microsoft365/install Devices logged in to Microsoft 365
+- https://account.microsoft.com/devices/content Devices linked to the Microsoft Store
+
 ## Windows
 - O&O ShutUp10: https://www.oo-software.com/en/shutup10
 - Windows 10 Decrapifier: https://community.spiceworks.com/scripts/show/4378-windows-10-decrapifier-18xx-19xx-2xxx
