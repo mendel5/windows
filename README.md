@@ -131,3 +131,16 @@ If a programm cannot be uninstalled successfully by the standard procedures, thi
 - https://www.cbackup.com/articles/stop-onedrive-from-syncing-6688.html
 - https://www.minitool.com/backup-tips/how-to-disable-onedrive.html
 - https://helpdeskgeek.com/windows-10/how-to-disable-onedrive-on-your-windows-10-pc-why-youd-want-to/
+
+## Useful Windows applications
+- `devmgmt.msc` Geräte-Manager, Device Manager
+- `diskmgmt.msc` Datenträgerverwaltung, Disk Management
+- `dfrgui.exe` Laufwerke defragmentieren und optimieren, Optimize Drives
+- `winver.exe` Windows-Version, About Windows
+- `msinfo32.exe` Systeminformationen, System Information
+- `perfmon.exe` Ressourcenmonitor, Resource Monitor
+- `regedit.exe` Registrierungs-Editor, Registry Editor
+- `netplwiz.exe` Benutzerkontenverwaltung, User Accounts
+- `compmgmt.msc` Computerverwaltung, Computer Management
+- `cleanmgr.exe` Datenträgerbereinigung, Disk Cleanup
+- `msconfig.exe` Systemkonfiguration, System Configuration
