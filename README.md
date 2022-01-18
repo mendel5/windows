@@ -144,4 +144,5 @@ If a programm cannot be uninstalled successfully by the standard procedures, thi
 - `compmgmt.msc` Computerverwaltung / Computer Management
 - `cleanmgr.exe` Datenträgerbereinigung / Disk Cleanup
 - `msconfig.exe` Systemkonfiguration / System Configuration
+- `SystemPropertiesProtection.exe` Computerschutzeinstellungen / System Protection
 - PC-Integritätsprüfung / PC Health Check
