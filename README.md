@@ -96,6 +96,7 @@ Sources:
 - Patch My PC (Check for outdated software): https://patchmypc.com/home-updater
 - Samsung Magician Software for SSDs: https://www.samsung.com/semiconductor/minisite/ssd/download/tools/
 - Portable Apps: https://portableapps.com/
+- CPU-Z: https://en.wikipedia.org/wiki/CPU-Z
 
 ## Network Scanner
 - Advanced IP Scanner: https://www.advanced-ip-scanner.com
