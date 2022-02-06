@@ -1,7 +1,7 @@
 # windows-setup
 How to set up Windows 10.
 
-Note: The content is focused on Germany.
+Note: Some content is focused on Germany.
 
 ## Microsoft account
 - https://account.microsoft.com Microsoft account overview
