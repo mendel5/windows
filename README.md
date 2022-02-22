@@ -5,7 +5,7 @@ Note: Some content is focused on Germany.
 
 ## Microsoft account
 - https://account.microsoft.com Microsoft account overview
-- https://account.microsoft.com/devices Devices linked to my Microsoft account
+- https://account.microsoft.com/devices Devices linked to Microsoft account
 - https://account.microsoft.com/services/microsoft365/install Devices logged in to Microsoft 365
 - https://account.microsoft.com/devices/content Devices linked to the Microsoft Store
 
