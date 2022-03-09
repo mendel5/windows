@@ -123,12 +123,12 @@ Sources:
 - `Suche`
 - `Nicht im Web suchen und keine Webergebnisse in der Suche anzeigen`
 
+## Disable Bing in the Start Menu Search
+- https://www.howtogeek.com/224159/how-to-disable-bing-in-the-windows-10-start-menu/
+
 ## Remove or Uninstall Programs
 If a programm cannot be uninstalled successfully by the standard procedures, this program might help.
 - Revo Uninstaller Free: https://www.revouninstaller.com/revo-uninstaller-free-download/
-
-## Disable Bing in the Start Menu Search
-- https://www.howtogeek.com/224159/how-to-disable-bing-in-the-windows-10-start-menu/
 
 ## Disable OneDrive Synchronization
 - https://www.cbackup.com/articles/stop-onedrive-from-syncing-6688.html
