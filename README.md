@@ -47,9 +47,9 @@ Note: Some content is focused on Germany.
 - WhyNotWin11: https://github.com/rcmaehl/WhyNotWin11
 
 ## WhyNotWin11
-- Achitecture: 64bit instead of 32bit (CPU + OS)
-- Boot method: UEFI instead of Legacy
-- Disk partition type: GPT instead of MBR
+- Achitecture: `64bit` instead of `32bit` (both CPU and OS)
+- Boot method: `UEFI` instead of `Legacy`
+- Disk partition type: `GPT` instead of `MBR`
 
 Source:
 - https://github.com/rcmaehl/WhyNotWin11
