@@ -9,18 +9,6 @@ Note: Some content is focused on Germany.
 - https://account.microsoft.com/services/microsoft365/install Devices logged in to Microsoft 365
 - https://account.microsoft.com/devices/content Devices linked to the Microsoft Store
 
-## Windows
-- O&O ShutUp10: https://www.oo-software.com/en/shutup10
-- Windows 10 Decrapifier: https://community.spiceworks.com/scripts/show/4378-windows-10-decrapifier-18xx-19xx-2xxx
-- YES _ Windows 10: Cortana deinstallieren: https://www.netzwelt.de/anleitung/180485-windows-10-cortana-deinstallierenso-gehts.html
-- Cortana vollständig deinstallieren: https://praxistipps.chip.de/cortana-vollstaendig-deinstallieren-so-gehts_44689
-- Windows 10 OneDrive entfernen: https://www.netzwelt.de/tutorial/163642-windows-10-so-deinstalliert-onedrive.html
-- OneDrive deinstallieren: https://www.heise.de/tipps-tricks/OneDrive-deinstallieren-so-geht-s-4975944.html
-- YES _ Web-Suche in Windows 10 deaktivieren (mit Gruppenrichtlinien): https://www.windowspro.de/wolfgang-sommergut/web-suche-windows-10-deaktivieren-gruppenrichtlinien
-- Windows 10 - Websuche im Startmenü deaktivieren: https://www.bennetrichter.de/anleitungen/windows-10-websuche-deaktivieren/
-- How to Force Uninstall Programs on Windows 10/11 Computers: https://wccftech.com/how-to/how-to-force-uninstall-programs-on-windows-10-11-computers/
-- WhyNotWin11: https://github.com/rcmaehl/WhyNotWin11
-
 ## Programs
 - Mozilla Firefox: https://www.mozilla.org/en-US/firefox/all/
 - Google Chrome: https://www.google.com/intl/en-US/chrome/
@@ -45,6 +33,18 @@ Note: Some content is focused on Germany.
 - Cisco Webex Meetings: https://www.webex.com/downloads.html
 - Teamviewer: https://www.teamviewer.com/download/windows/
 - Teamviewer German: https://www.teamviewer.com/de/download/windows/
+
+## Other
+- O&O ShutUp10: https://www.oo-software.com/en/shutup10
+- Windows 10 Decrapifier: https://community.spiceworks.com/scripts/show/4378-windows-10-decrapifier-18xx-19xx-2xxx
+- YES _ Windows 10: Cortana deinstallieren: https://www.netzwelt.de/anleitung/180485-windows-10-cortana-deinstallierenso-gehts.html
+- Cortana vollständig deinstallieren: https://praxistipps.chip.de/cortana-vollstaendig-deinstallieren-so-gehts_44689
+- Windows 10 OneDrive entfernen: https://www.netzwelt.de/tutorial/163642-windows-10-so-deinstalliert-onedrive.html
+- OneDrive deinstallieren: https://www.heise.de/tipps-tricks/OneDrive-deinstallieren-so-geht-s-4975944.html
+- YES _ Web-Suche in Windows 10 deaktivieren (mit Gruppenrichtlinien): https://www.windowspro.de/wolfgang-sommergut/web-suche-windows-10-deaktivieren-gruppenrichtlinien
+- Windows 10 - Websuche im Startmenü deaktivieren: https://www.bennetrichter.de/anleitungen/windows-10-websuche-deaktivieren/
+- How to Force Uninstall Programs on Windows 10/11 Computers: https://wccftech.com/how-to/how-to-force-uninstall-programs-on-windows-10-11-computers/
+- WhyNotWin11: https://github.com/rcmaehl/WhyNotWin11
 
 ## WhyNotWin11
 - Achitecture: 64bit instead of 32bit (CPU + OS)
