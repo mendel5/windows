@@ -43,6 +43,8 @@ Note: Some content is focused on Germany.
 - Microsoft Teams: https://www.microsoft.com/en-us/microsoft-teams/download-app
 - Zoom: https://zoom.us/download
 - Cisco Webex Meetings: https://www.webex.com/downloads.html
+- Teamviewer: https://www.teamviewer.com/download/windows/
+- Teamviewer German: https://www.teamviewer.com/de/download/windows/
 
 ## WhyNotWin11
 - Achitecture: 64bit instead of 32bit (CPU + OS)
