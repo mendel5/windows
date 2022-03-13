@@ -44,7 +44,7 @@ Note: Some content is focused on Germany.
 - YES _ Web-Suche in Windows 10 deaktivieren (mit Gruppenrichtlinien): https://www.windowspro.de/wolfgang-sommergut/web-suche-windows-10-deaktivieren-gruppenrichtlinien
 - Windows 10 - Websuche im Startmenü deaktivieren: https://www.bennetrichter.de/anleitungen/windows-10-websuche-deaktivieren/
 - How to Force Uninstall Programs on Windows 10/11 Computers: https://wccftech.com/how-to/how-to-force-uninstall-programs-on-windows-10-11-computers/
-- WhyNotWin11: https://github.com/rcmaehl/WhyNotWin11
+- https://www.youtube.com/watch?v=G5TGARdHkRM HardwareDealz - Windows 10 installieren 2022 - Mit USB + Einrichten & Treiber Installation
 
 ## WhyNotWin11
 - Achitecture: `64bit` instead of `32bit` (both CPU and OS)
