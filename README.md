@@ -167,3 +167,10 @@ If a programm cannot be uninstalled successfully by the standard procedures, thi
 - https://docs.microsoft.com/en-us/troubleshoot/windows-client/networking/mapped-drives-not-available-from-elevated-command
 - https://docs.qnap.com/operating-system/qts/5.0.x/de-de/webserver-091B47DC.html
 - https://forum.qnapclub.de/thread/58177-keine-verbindung-%C3%BCber-browser/
+
+Problem: Windows 10 network share does not show prompt to enter username and password. Solution: Enter username and password manually in `netplwiz`.
+
+Question: Why does Windows 10 not show the prompt to enter the username and password for a network share?
+
+## Locate Lost Wifi Device
+- WifiInfoView by NirSoft
