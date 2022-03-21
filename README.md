@@ -151,4 +151,19 @@ If a programm cannot be uninstalled successfully by the standard procedures, thi
 - PC-Integritätsprüfung / PC Health Check
 
 ## Nasty Networking Issue
-
+- https://social.technet.microsoft.com/Forums/windows/de-DE/17c9ea7d-52df-4ef9-95fa-0a961d11bfa3/fix-for-cannot-access-nas-drives-sharefolder-is-not-accessible-or-quoterror-code
+- https://www.stellarinfo.co.in/blog/how-to-fix-nas-device-not-visible-on-windows-10/
+- https://kb.synology.com/en-nz/DSM/tutorial/What_can_I_do_if_my_Synology_NAS_does_not_show_up_in_Network_in_Windows_File_Explorer
+- https://www.buffalotech.com/knowledge-base/windows-10-cannot-access-shares-on-nas
+- https://www.google.de/search?q=%220x80070035%22
+- https://basic-tutorials.de/ratgeber/software/fehlerbehebung-0x80070035-fehlercode-der-netzwerkpfad-wurde-nicht-gefunden/
+- https://de.minitool.com/nachrichten/der-netzwerkpfad-wurde-nicht-gefunden.html
+- https://hdwh.de/windows-10-netzwerk-zeigt-fehler-0x80070035-der-netzwerkpfad-wurde-nicht-gefunden/
+- https://www.borncity.com/blog/2015/09/21/windows-10-netzwerk-zeigt-fehler-0x80070035/
+- https://www.expertiger.de/windows-problem/windows-fehler-0x80070035
+- https://www.windows-faq.de/2018/02/22/0x80070035-fehlercode-der-netzwerkpfad-wurde-nicht-gefunden/
+- https://www.youtube.com/watch?v=5bIcJluf-0Q Network Path Not Found - WIndows 10 1803 - Guaranteed Fix
+- https://docs.microsoft.com/en-us/troubleshoot/windows-client/networking/cannot-access-shared-folder-file-explorer
+- https://docs.microsoft.com/en-us/troubleshoot/windows-client/networking/mapped-drives-not-available-from-elevated-command
+- https://docs.qnap.com/operating-system/qts/5.0.x/de-de/webserver-091B47DC.html
+- https://forum.qnapclub.de/thread/58177-keine-verbindung-%C3%BCber-browser/
