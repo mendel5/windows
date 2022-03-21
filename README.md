@@ -149,3 +149,6 @@ If a programm cannot be uninstalled successfully by the standard procedures, thi
 - `msconfig.exe` Systemkonfiguration / System Configuration
 - `SystemPropertiesProtection.exe` Computerschutzeinstellungen / System Protection
 - PC-Integritätsprüfung / PC Health Check
+
+## Nasty Networking Issue
+
