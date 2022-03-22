@@ -192,3 +192,17 @@ How to physically locate a lost access point that still sends a Wifi signal?
 - https://community.spiceworks.com/topic/2010487-missing-ap-how-can-i-locate-it
 - https://www.reddit.com/r/Hacking_Tutorials/comments/lbf9i7/how_to_track_a_device_connected_to_wifi/ airodump-ng / aircrack-ng / Kali Linux
 - https://www.youtube.com/watch?v=uKZb3D-PHS0 HakByte: Advanced WiFi Scanning with Airodump-ng
+- https://www.aircrack-ng.org/doku.php?id=newbie_guide
+- https://www.aircrack-ng.org/doku.php?id=airodump-ng
+
+```
+sudo airmon-ng
+
+sudo airmon-ng start wlan0
+(replace wlan0 with the name of the "interface")
+
+sudo airmon-ng
+--> the interface should now be called "wlan0mon"
+
+sudo airodump-ng wlan0mon
+```
