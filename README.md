@@ -168,18 +168,21 @@ If a programm cannot be uninstalled successfully by the standard procedures, thi
 - https://docs.qnap.com/operating-system/qts/5.0.x/de-de/webserver-091B47DC.html
 - https://forum.qnapclub.de/thread/58177-keine-verbindung-%C3%BCber-browser/
 
-Problem: Windows 10 network share does not show prompt to enter username and password. Solution: Enter username and password manually in `netplwiz`.
+Problem:
+- Windows 10 error code 0x80070035
+- When trying to open a network sharem, Windows 10 does not show a prompt to enter the username and password. Solution: Enter username and password manually in `netplwiz`.
 
-Question: Why does Windows 10 not show the prompt to enter the username and password for a network share?
+Question:
+- Why does Windows 10 not show the prompt to enter the username and password for a network share?
 
 ## Locate Lost Wifi Device
+How to physically locate a lost access point that still sends a Wifi signal?
 - WifiInfoView by NirSoft
 - https://www.nirsoft.net/utils/wifi_information_view.html
 - https://play.google.com/store/apps/details?id=com.vrem.wifianalyzer
 - https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer
 - MoocherHunter
 - https://superuser.com/questions/601005/how-do-i-physically-find-a-wifi-device-using-a-laptop-or-mobile-phone
-- https://www.reddit.com/r/Hacking_Tutorials/comments/lbf9i7/how_to_track_a_device_connected_to_wifi/
 - https://lifehacker.com/how-can-i-find-a-lost-device-when-its-in-silent-mode-1082395852
 - https://www.youtube.com/watch?v=EWmSnE4MTyk WifiInfoView
 - https://www.accessagility.com/blog/locating-rogue-access-points
@@ -187,3 +190,5 @@ Question: Why does Windows 10 not show the prompt to enter the username and pass
 - https://alternativeto.net/software/wifi-analyzer/?license=free
 - https://forum.churchitnetwork.com/t/need-to-find-a-physical-wifi-router-wireless-access-point/949
 - https://community.spiceworks.com/topic/2010487-missing-ap-how-can-i-locate-it
+- https://www.reddit.com/r/Hacking_Tutorials/comments/lbf9i7/how_to_track_a_device_connected_to_wifi/ airodump-ng / aircrack-ng / Kali Linux
+- https://www.youtube.com/watch?v=uKZb3D-PHS0 HakByte: Advanced WiFi Scanning with Airodump-ng
