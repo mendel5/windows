@@ -174,6 +174,7 @@ Question: Why does Windows 10 not show the prompt to enter the username and pass
 
 ## Locate Lost Wifi Device
 - WifiInfoView by NirSoft
+- https://www.nirsoft.net/utils/wifi_information_view.html
 - https://play.google.com/store/apps/details?id=com.vrem.wifianalyzer
 - https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer
 - MoocherHunter
