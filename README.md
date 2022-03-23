@@ -176,6 +176,8 @@ Question:
 - Why does Windows 10 not show the prompt to enter the username and password for a network share?
 
 ## Locate Lost Wifi Device
+--> move to own repository "locate-lost-wifi-device"
+
 How to physically locate a lost access point that still sends a Wifi signal?
 - WifiInfoView by NirSoft
 - https://www.nirsoft.net/utils/wifi_information_view.html
