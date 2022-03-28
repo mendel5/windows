@@ -26,6 +26,7 @@ Note: Some content is focused on Germany.
 - Sysinternals Autoruns: https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
 - Greenshot: https://getgreenshot.org/downloads/ and https://github.com/greenshot/greenshot
 - 7-Zip: https://www.7-zip.org/download.html
+- WinDirStat Portable: https://portableapps.com/de/apps/utilities/windirstat_portable
 
 ## Video telephony
 - Microsoft Teams: https://www.microsoft.com/en-us/microsoft-teams/download-app
