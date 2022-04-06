@@ -81,9 +81,6 @@ Get-AppxPackage *Microsoft.549981C3F5F10* -AllUsers | Remove-AppxPackage
 - Open this path:
 ```
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\NetworkList\Profiles
-
-Copy paste:
-\
 ```
 - The profiles are listed in the folders below
 
