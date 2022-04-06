@@ -1,6 +1,8 @@
 # windows-setup
 How to set up Windows 10.
 
+Useful information, tips & tricks and other relevant resources to properly configure a Windows 10 user account.
+
 Note: Some content is focused on Germany.
 
 ## Microsoft account
