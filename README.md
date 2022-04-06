@@ -1,7 +1,7 @@
 # windows-setup
 How to set up Windows 10.
 
-Useful information, tips & tricks and other relevant resources to properly configure a Windows 10 user account.
+Useful information, tips & tricks and other relevant resources to properly configure a Windows 10 user account/ computer.
 
 Note: Some content is focused on Germany.
 
@@ -31,8 +31,8 @@ Note: Some content is focused on Germany.
 - Teamviewer: https://www.teamviewer.com/download/windows/
 - Teamviewer German: https://www.teamviewer.com/de/download/windows/
 
-## Remove Adware
-- https://www.malwarebytes.com/adwcleaner
+## Remove Adware and Potentially Unwanted Programs
+- AdwCleaner: https://www.malwarebytes.com/adwcleaner
 
 ## Other 1
 - O&O ShutUp10: https://www.oo-software.com/en/shutup10
@@ -136,19 +136,19 @@ Sources:
 - https://helpdeskgeek.com/windows-10/how-to-disable-onedrive-on-your-windows-10-pc-why-youd-want-to/
 
 ## Useful Windows applications
-- `winver.exe` Windows-Version / About Windows
-- `msinfo32.exe` Systeminformationen / System Information
-- `devmgmt.msc` Geräte-Manager / Device Manager
-- `diskmgmt.msc` Datenträgerverwaltung / Disk Management
-- `dfrgui.exe` Laufwerke defragmentieren und optimieren / Optimize Drives
-- `perfmon.exe` Ressourcenmonitor / Resource Monitor
-- `regedit.exe` Registrierungs-Editor / Registry Editor
-- `netplwiz.exe` Benutzerkontenverwaltung / User Accounts
-- `compmgmt.msc` Computerverwaltung / Computer Management
-- `cleanmgr.exe` Datenträgerbereinigung / Disk Cleanup
-- `msconfig.exe` Systemkonfiguration / System Configuration
-- `SystemPropertiesProtection.exe` Computerschutzeinstellungen / System Protection
-- PC-Integritätsprüfung / PC Health Check
+- `winver.exe` About Windows / Windows-Version
+- `msinfo32.exe` System Information / Systeminformationen
+- `devmgmt.msc` Device Manager / Geräte-Manager
+- `diskmgmt.msc` Disk Management / Datenträgerverwaltung
+- `dfrgui.exe` Optimize Drives / Laufwerke defragmentieren und optimieren
+- `perfmon.exe` Resource Monitor / Ressourcenmonitor
+- `regedit.exe` Registry Editor / Registrierungs-Editor
+- `netplwiz.exe` User Accounts / Benutzerkontenverwaltung
+- `compmgmt.msc` Computer Management / Computerverwaltung
+- `cleanmgr.exe` Disk Cleanup / Datenträgerbereinigung
+- `msconfig.exe` System Configuration / Systemkonfiguration
+- `SystemPropertiesProtection.exe` System Protection / Computerschutzeinstellungen
+- PC Health Check / PC-Integritätsprüfung
 
 ## Nasty Networking Issue
 - https://social.technet.microsoft.com/Forums/windows/de-DE/17c9ea7d-52df-4ef9-95fa-0a961d11bfa3/fix-for-cannot-access-nas-drives-sharefolder-is-not-accessible-or-quoterror-code
