@@ -5,12 +5,6 @@ Useful information, tips & tricks and other relevant resources to properly confi
 
 Note: Some content is focused on Germany.
 
-## Microsoft account
-- https://account.microsoft.com Microsoft account overview
-- https://account.microsoft.com/devices Devices linked to Microsoft account
-- https://account.microsoft.com/services/microsoft365/install Devices logged in to Microsoft 365
-- https://account.microsoft.com/devices/content Devices linked to the Microsoft Store
-
 ## Programs
 - Mozilla Firefox: https://www.mozilla.org/en-US/firefox/all/
 - Google Chrome: https://www.google.com/intl/en-US/chrome/
@@ -37,7 +31,10 @@ Note: Some content is focused on Germany.
 - Teamviewer: https://www.teamviewer.com/download/windows/
 - Teamviewer German: https://www.teamviewer.com/de/download/windows/
 
-## Other
+## Remove Adware
+- https://www.malwarebytes.com/adwcleaner
+
+## Other 1
 - O&O ShutUp10: https://www.oo-software.com/en/shutup10
 - Windows 10 Decrapifier: https://community.spiceworks.com/scripts/show/4378-windows-10-decrapifier-18xx-19xx-2xxx
 - YES _ Windows 10: Cortana deinstallieren: https://www.netzwelt.de/anleitung/180485-windows-10-cortana-deinstallierenso-gehts.html
@@ -49,6 +46,21 @@ Note: Some content is focused on Germany.
 - How to Force Uninstall Programs on Windows 10/11 Computers: https://wccftech.com/how-to/how-to-force-uninstall-programs-on-windows-10-11-computers/
 - https://www.youtube.com/watch?v=G5TGARdHkRM HardwareDealz - Windows 10 installieren 2022 - Mit USB + Einrichten & Treiber Installation
 
+## Other 2
+- Snappy Driver Installer Origin: https://www.snappy-driver-installer.org/ (use with caution)
+- Patch My PC (Check for outdated software): https://patchmypc.com/home-updater
+- Samsung Magician Software for SSDs: https://www.samsung.com/semiconductor/minisite/ssd/download/tools/
+- Portable Apps: https://portableapps.com/
+- CPU-Z: https://en.wikipedia.org/wiki/CPU-Z
+
+## Remove or Uninstall Programs
+If a programm cannot be uninstalled successfully by the standard procedures, this program might help
+- Revo Uninstaller Free: https://www.revouninstaller.com/revo-uninstaller-free-download/
+
+## Network Scanner
+- Advanced IP Scanner: https://www.advanced-ip-scanner.com
+- Angry IP Scanner: https://angryip.org
+
 ## WhyNotWin11
 - Achitecture: `64bit` instead of `32bit` (both CPU and OS)
 - Boot method: `UEFI` instead of `Legacy`
@@ -56,6 +68,12 @@ Note: Some content is focused on Germany.
 
 Source:
 - https://github.com/rcmaehl/WhyNotWin11
+
+## Microsoft account
+- https://account.microsoft.com Microsoft account overview
+- https://account.microsoft.com/devices Devices linked to Microsoft account
+- https://account.microsoft.com/services/microsoft365/install Devices logged in to Microsoft 365
+- https://account.microsoft.com/devices/content Devices linked to the Microsoft Store
 
 ## Uninstall Cortana
 - Right click on the Windows icon in the bottom left
@@ -90,20 +108,6 @@ Sources:
 - https://www.tecchannel.de/a/netzwerknamen-unter-windows-10-aendern,3277868
 - https://www.pctipp.ch/praxis/windows/windows-10-netzwerke-umbenennen-so-gehts-2002978.html
 
-## Remove Adware
-- https://www.malwarebytes.com/adwcleaner
-
-## Other 2
-- Snappy Driver Installer Origin: https://www.snappy-driver-installer.org/ (use with caution)
-- Patch My PC (Check for outdated software): https://patchmypc.com/home-updater
-- Samsung Magician Software for SSDs: https://www.samsung.com/semiconductor/minisite/ssd/download/tools/
-- Portable Apps: https://portableapps.com/
-- CPU-Z: https://en.wikipedia.org/wiki/CPU-Z
-
-## Network Scanner
-- Advanced IP Scanner: https://www.advanced-ip-scanner.com
-- Angry IP Scanner: https://angryip.org
-
 ## Change hostname
 - Press the `Windows` key in the bottom left
 - Search for `PC Info`
@@ -125,10 +129,6 @@ Sources:
 
 ## Disable Bing in the Start Menu Search
 - https://www.howtogeek.com/224159/how-to-disable-bing-in-the-windows-10-start-menu/
-
-## Remove or Uninstall Programs
-If a programm cannot be uninstalled successfully by the standard procedures, this program might help.
-- Revo Uninstaller Free: https://www.revouninstaller.com/revo-uninstaller-free-download/
 
 ## Disable OneDrive Synchronization
 - https://www.cbackup.com/articles/stop-onedrive-from-syncing-6688.html
