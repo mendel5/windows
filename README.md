@@ -168,10 +168,10 @@ If a programm cannot be uninstalled successfully by the standard procedures, thi
 
 Problem:
 - Windows 10 error code 0x80070035
-- When trying to open a network share, Windows 10 does not show a prompt to enter the username and password.
+- When trying to open a network share, Windows 10 does not show a prompt to enter the username and password
 
 Solution:
-- Enter the username and password manually in `netplwiz`.
+- Enter the username and password manually in `netplwiz`
 
 Question:
 - Why does Windows 10 not show the prompt to enter the username and password for a network share?
