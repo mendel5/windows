@@ -68,6 +68,7 @@ If a programm cannot be uninstalled successfully by the standard procedures, thi
 
 Source:
 - https://github.com/rcmaehl/WhyNotWin11
+- Download WhyNotWin11 latest stable release (64-bit): https://github.com/rcmaehl/WhyNotWin11/releases/latest/download/WhyNotWin11.exe
 
 ## Microsoft account
 - https://account.microsoft.com Microsoft account overview
