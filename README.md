@@ -45,6 +45,7 @@ Note: Some content is focused on Germany.
 - Windows 10 - Websuche im Startmenü deaktivieren: https://www.bennetrichter.de/anleitungen/windows-10-websuche-deaktivieren/
 - How to Force Uninstall Programs on Windows 10/11 Computers: https://wccftech.com/how-to/how-to-force-uninstall-programs-on-windows-10-11-computers/
 - https://www.youtube.com/watch?v=G5TGARdHkRM HardwareDealz - Windows 10 installieren 2022 - Mit USB + Einrichten & Treiber Installation
+- https://www.netzwelt.de/anleitung/166183-windows-10-so-behebt-fehler-ueber-sfc-dism.html Systemfehler mit SFC und DISM reparieren (`sfc /scannow`)
 
 ## Other 2
 - Snappy Driver Installer Origin: https://www.snappy-driver-installer.org/ (use with caution)
