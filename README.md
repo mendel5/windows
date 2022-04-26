@@ -57,7 +57,7 @@ Note: Some content is focused on Germany.
 - CPU-Z: https://en.wikipedia.org/wiki/CPU-Z
 
 ## Remove or Uninstall Programs
-If a programm cannot be uninstalled successfully by the standard procedures, this program might help
+If a programm cannot be uninstalled successfully through the standard procedures, this program might help
 - Revo Uninstaller Free: https://www.revouninstaller.com/revo-uninstaller-free-download/
 
 ## Network Scanner
