@@ -48,6 +48,8 @@ Note: Some content is focused on Germany.
 - Systemfehler mit SFC und DISM reparieren (`sfc /scannow`) https://www.netzwelt.de/anleitung/166183-windows-10-so-behebt-fehler-ueber-sfc-dism.html
 - https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/
 - https://superuser.com/questions/1658332/run-sfc-scannow-or-chkdsk-f-first
+- https://superuser.com/questions/1579030/what-is-the-purpose-of-the-dism-restorehealth-parameter-and-sfc
+- https://superuser.com/questions/1330365/how-will-dism-online-cleanup-image-restorehealth-affect-my-current-configurat
 
 ## Other 2
 - Snappy Driver Installer Origin: https://www.snappy-driver-installer.org/ (use with caution)
