@@ -50,6 +50,7 @@ Note: Some content is focused on Germany.
 - https://superuser.com/questions/1658332/run-sfc-scannow-or-chkdsk-f-first
 - https://superuser.com/questions/1579030/what-is-the-purpose-of-the-dism-restorehealth-parameter-and-sfc
 - https://superuser.com/questions/1330365/how-will-dism-online-cleanup-image-restorehealth-affect-my-current-configurat
+- Deactivate Internet Explorer https://docs.microsoft.com/en-us/troubleshoot/developer/browsers/installation/disable-internet-explorer-windows
 
 ## Other 2
 - Snappy Driver Installer Origin: https://www.snappy-driver-installer.org/ (use with caution)
