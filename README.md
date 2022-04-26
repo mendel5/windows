@@ -35,17 +35,17 @@ Note: Some content is focused on Germany.
 - AdwCleaner: https://www.malwarebytes.com/adwcleaner
 
 ## Other 1
-- O&O ShutUp10: https://www.oo-software.com/en/shutup10
-- Windows 10 Decrapifier: https://community.spiceworks.com/scripts/show/4378-windows-10-decrapifier-18xx-19xx-2xxx
-- YES _ Windows 10: Cortana deinstallieren: https://www.netzwelt.de/anleitung/180485-windows-10-cortana-deinstallierenso-gehts.html
-- Cortana vollständig deinstallieren: https://praxistipps.chip.de/cortana-vollstaendig-deinstallieren-so-gehts_44689
-- Windows 10 OneDrive entfernen: https://www.netzwelt.de/tutorial/163642-windows-10-so-deinstalliert-onedrive.html
-- OneDrive deinstallieren: https://www.heise.de/tipps-tricks/OneDrive-deinstallieren-so-geht-s-4975944.html
-- YES _ Web-Suche in Windows 10 deaktivieren (mit Gruppenrichtlinien): https://www.windowspro.de/wolfgang-sommergut/web-suche-windows-10-deaktivieren-gruppenrichtlinien
-- Windows 10 - Websuche im Startmenü deaktivieren: https://www.bennetrichter.de/anleitungen/windows-10-websuche-deaktivieren/
-- How to Force Uninstall Programs on Windows 10/11 Computers: https://wccftech.com/how-to/how-to-force-uninstall-programs-on-windows-10-11-computers/
-- https://www.youtube.com/watch?v=G5TGARdHkRM HardwareDealz - Windows 10 installieren 2022 - Mit USB + Einrichten & Treiber Installation
-- https://www.netzwelt.de/anleitung/166183-windows-10-so-behebt-fehler-ueber-sfc-dism.html Systemfehler mit SFC und DISM reparieren (`sfc /scannow`)
+- O&O ShutUp10 https://www.oo-software.com/en/shutup10
+- Windows 10 Decrapifier https://community.spiceworks.com/scripts/show/4378-windows-10-decrapifier-18xx-19xx-2xxx
+- YES _ Windows 10: Cortana deinstallieren https://www.netzwelt.de/anleitung/180485-windows-10-cortana-deinstallierenso-gehts.html
+- Cortana vollständig deinstallieren https://praxistipps.chip.de/cortana-vollstaendig-deinstallieren-so-gehts_44689
+- Windows 10 OneDrive entfernen https://www.netzwelt.de/tutorial/163642-windows-10-so-deinstalliert-onedrive.html
+- OneDrive deinstallieren https://www.heise.de/tipps-tricks/OneDrive-deinstallieren-so-geht-s-4975944.html
+- YES _ Web-Suche in Windows 10 deaktivieren (mit Gruppenrichtlinien) https://www.windowspro.de/wolfgang-sommergut/web-suche-windows-10-deaktivieren-gruppenrichtlinien
+- Windows 10 - Websuche im Startmenü deaktivieren https://www.bennetrichter.de/anleitungen/windows-10-websuche-deaktivieren/
+- How to Force Uninstall Programs on Windows 10/11 Computers https://wccftech.com/how-to/how-to-force-uninstall-programs-on-windows-10-11-computers/
+- Windows 10 installieren 2022 - Mit USB + Einrichten & Treiber Installation, HardwareDealz https://www.youtube.com/watch?v=G5TGARdHkRM 
+- Systemfehler mit SFC und DISM reparieren (`sfc /scannow`) https://www.netzwelt.de/anleitung/166183-windows-10-so-behebt-fehler-ueber-sfc-dism.html
 - https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/
 - https://superuser.com/questions/1658332/run-sfc-scannow-or-chkdsk-f-first
 
