@@ -28,8 +28,9 @@ Note: Some content is focused on Germany.
 - Microsoft Teams: https://www.microsoft.com/en-us/microsoft-teams/download-app
 - Zoom: https://zoom.us/download
 - Cisco Webex Meetings: https://www.webex.com/downloads.html
-- Teamviewer: https://www.teamviewer.com/download/windows/
-- Teamviewer German: https://www.teamviewer.com/de/download/windows/
+- Teamviewer: https://www.teamviewer.com/download/windows
+- Teamviewer German: https://www.teamviewer.com/de/download/windows
+- Linphone: https://www.linphone.org
 
 ## Remove Adware and Potentially Unwanted Programs
 - AdwCleaner: https://www.malwarebytes.com/adwcleaner
