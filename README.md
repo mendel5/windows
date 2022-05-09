@@ -185,3 +185,11 @@ Solution:
 
 Question:
 - Why does Windows 10 not show the prompt to enter the username and password for a network share? Maybe it is related to the user permissions or rights?
+
+## Recommended hardware
+### Laptop brands
+- Lenovo
+
+### Printers
+- Epson
+- Brother
