@@ -188,6 +188,22 @@ Solution:
 Question:
 - Why does Windows 10 not show the prompt to enter the username and password for a network share? Maybe it is related to the user permissions or rights?
 
+## chkdsk
+Open the command line (CMD) as an administrator.
+```
+chkdsk c: /r /v
+```
+Sources:
+- https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/chkdsk
+
+## defrag
+Open the command line (CMD) as an administrator.
+```
+defrag c: /c /h /u /v /x
+```
+Sources:
+- https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/defrag
+
 ## Recommended hardware
 ### Laptop brands
 - Lenovo
