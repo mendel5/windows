@@ -199,7 +199,7 @@ Sources:
 ## defrag
 Open the command line (CMD) as an administrator.
 ```
-defrag c: /c /h /u /v /x
+defrag c: /h /u /v /x
 ```
 Sources:
 - https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/defrag
