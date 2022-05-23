@@ -196,8 +196,9 @@ chkdsk c: /r /v
 Sources:
 - https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/chkdsk
 - https://old.reddit.com/r/DataHoarder/comments/oc54a1/which_software_to_use_to_check_drive_health/
-- https://recoverhdd.com/blog/using-victoria-for-testing-repair-hard-drive.html Victoria HDD/SSD How to
 - https://www.filehorse.com/download-victoria-ssd-hdd/ Victoria HDD/SSD download
+- https://recoverhdd.com/blog/using-victoria-for-testing-repair-hard-drive.html Victoria HDD/SSD How to
+- https://hdd.by/victoria_faq/ Victoria FAQ
 
 ## defrag
 Open the command line (CMD) as an administrator.
