@@ -203,6 +203,13 @@ Sources:
 ```
 sudo badblocks -sv /dev/sda
 ```
+Source:
+- https://wiki.archlinux.org/title/badblocks
+
+```
+sudo e2fsck -fv /dev/sda2
+```
+- https://unix.stackexchange.com/questions/347280/how-to-perform-full-check-of-ext4-file-system-structure
 
 ## defrag
 Open the command line (CMD) as an administrator.
