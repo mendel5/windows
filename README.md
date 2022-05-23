@@ -200,6 +200,10 @@ Sources:
 - https://recoverhdd.com/blog/using-victoria-for-testing-repair-hard-drive.html Victoria HDD/SSD How to
 - https://hdd.by/victoria_faq/ Victoria FAQ
 
+```
+sudo badblocks -sv /dev/sda
+```
+
 ## defrag
 Open the command line (CMD) as an administrator.
 ```
