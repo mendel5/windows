@@ -219,6 +219,14 @@ defrag c: /h /u /v /x
 Sources:
 - https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/defrag
 
+```
+sudo e4defrag -c /dev/sda2
+
+sudo e4defrag /dev/sda2
+```
+Sources:
+- https://askubuntu.com/questions/221079/how-to-defrag-an-ext4-filesystem
+
 ## Recommended hardware
 ### Laptop brands
 - Lenovo
