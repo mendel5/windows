@@ -193,6 +193,17 @@ Open the command line (CMD) as an administrator.
 ```
 chkdsk c: /r /v
 ```
+
+```
+How to evaluate the results:
+
+Ereignisanzeige (Event log)
+
+Ereignisanzeige (Lokal) --> Windows-Protokolle --> Anwendung
+
+Look for an entry with the source "Wininit"
+```
+
 Sources:
 - https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/chkdsk
 - https://old.reddit.com/r/DataHoarder/comments/oc54a1/which_software_to_use_to_check_drive_health/
