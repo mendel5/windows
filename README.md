@@ -55,7 +55,7 @@ Note: Some content is focused on Germany.
 
 ## Other 2
 - Snappy Driver Installer Origin: https://www.snappy-driver-installer.org/ (use with caution)
-- Patch My PC (Check for outdated software): https://patchmypc.com/home-updater
+- Patch My PC (check for outdated software): https://patchmypc.com/home-updater
 - Samsung Magician Software for SSDs: https://semiconductor.samsung.com/consumer-storage/support/tools/
 - Micron Crucial Storage Executive: https://www.crucial.com/support/storage-executive
 - CrystalDiskInfo: https://crystalmark.info/en/download/
