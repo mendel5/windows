@@ -197,7 +197,7 @@ chkdsk c: /r /v
 ```
 How to evaluate the results:
 
-Ereignisanzeige (Event log)
+Ereignisanzeige (Event Viewer)
 
 Ereignisanzeige (Lokal) --> Windows-Protokolle --> Anwendung
 
@@ -211,12 +211,14 @@ Sources:
 - https://recoverhdd.com/blog/using-victoria-for-testing-repair-hard-drive.html Victoria HDD/SSD How to
 - https://hdd.by/victoria_faq/ Victoria FAQ
 
+Linux:
 ```
 sudo badblocks -sv /dev/sda
 ```
 Source:
 - https://wiki.archlinux.org/title/badblocks
 
+Linux:
 ```
 sudo e2fsck -fv /dev/sda2
 ```
@@ -230,6 +232,7 @@ defrag c: /h /u /v /x
 Sources:
 - https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/defrag
 
+Linux:
 ```
 sudo e4defrag -c /dev/sda2
 
