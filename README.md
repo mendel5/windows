@@ -158,6 +158,7 @@ Sources:
 - `cleanmgr.exe` Disk Cleanup / Datenträgerbereinigung
 - `msconfig.exe` System Configuration / Systemkonfiguration
 - `SystemPropertiesProtection.exe` System Protection / Computerschutzeinstellungen
+- `eventvwr.msc` Event Viewer / Ereignisanzeige
 - PC Health Check / PC-Integritätsprüfung
 
 ## Nasty Networking Issue
