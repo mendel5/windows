@@ -79,6 +79,15 @@ Source:
 - https://github.com/rcmaehl/WhyNotWin11
 - Download WhyNotWin11 latest stable release (64-bit): https://github.com/rcmaehl/WhyNotWin11/releases/latest/download/WhyNotWin11.exe
 
+## Get directly to UEFI-BIOS
+How to restart/reboot Windows 10 to get directly to UEFI-BIOS
+- Settings method: `Windows settings` --> `Update & Security` --> `Recovery` --> `Advanced startup` --> `Restart now` --> `Troubleshoot` --> `Advanced options` --> `UEFI firmware settings`
+- Shift method: `Start menu` --> select `Power` (Power button icon) --> hold `Shift` on keyboard while selecting `Restart` --> select `Troubleshoot` --> `Advanced options` --> `UEFI firmware settings`
+
+Source:
+- https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/boot-to-uefi-mode-or-legacy-bios-mode?view=windows-10
+- https://www.pc-magazin.de/ratgeber/bios-uefi-starten-windows-10-3201227.html
+
 ## Microsoft account
 - https://account.microsoft.com Microsoft account overview
 - https://account.microsoft.com/devices Devices linked to Microsoft account
