@@ -94,7 +94,7 @@ Source:
 - https://account.microsoft.com/services/microsoft365/install Devices logged in to Microsoft 365
 - https://account.microsoft.com/devices/content Devices linked to the Microsoft Store
 
-## Uninstall Cortana
+## Remove/Uninstall Cortana
 - Right click on the Windows icon in the bottom left
 - Click on `Windows PowerShell (Administrator)`
 - Copy the following command:
@@ -112,6 +112,16 @@ Get-AppxPackage *Microsoft.549981C3F5F10* -AllUsers | Remove-AppxPackage -AllUse
 
 Get-AppxPackage *Microsoft.549981C3F5F10* -AllUsers | Remove-AppxPackage
 ```
+
+## Remove/Uninstall Xbox
+Similar to the description above.
+```
+Get-AppxPackage *Xbox* | Remove-AppxPackage
+```
+
+Sources:
+- https://www.heise.de/forum/heise-online/Kommentare/Windows-Microsofts-Sound-Management-ist-eine-Qual/Re-Die-ins-Betriebssystem-integrierte-Xbox-Game-Bar/posting-42299195/show/
+- https://www.lifewire.com/remove-xbox-app-from-windows-10-4587103
 
 ## Rename a Wired Network Connection
 - Press `Win` + `R`
