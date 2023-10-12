@@ -1,5 +1,5 @@
 # windows-setup
-How to set up Windows 10.
+How to set up Windows 10 and Windows 11.
 
 Useful information, tips & tricks and other relevant resources to properly configure a Windows 10 user account/ computer.
 
