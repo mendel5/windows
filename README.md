@@ -227,7 +227,7 @@ Displays the name of each file in every directory as the disk is checked.
 ```
 
 ```
-How to evaluate the results:
+How to evaluate the results of chkdsk:
 
 Ereignisanzeige (Event Viewer)
 
