@@ -272,6 +272,21 @@ Verbose mode
 Open the command line (CMD) as an administrator.
 ```
 defrag c: /h /u /v /x
+
+c:
+Specifies the drive letter or mount point path of the volume to be defragmented or analyzed.
+
+/h
+Runs the operation at normal priority (default is low).
+
+/u
+Prints the progress of the operation on the screen.
+
+/v
+Prints verbose output containing the fragmentation statistics.
+
+/x
+Performs free space consolidation on the specified volumes.
 ```
 Sources:
 - https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/defrag
@@ -281,9 +296,13 @@ Linux:
 sudo e4defrag -c /dev/sda2
 
 sudo e4defrag /dev/sda2
+
+-c
+Get a current fragmentation count and an ideal fragmentation count, and calculate fragmentation score based on them.
 ```
 Sources:
 - https://askubuntu.com/questions/221079/how-to-defrag-an-ext4-filesystem
+- https://man7.org/linux/man-pages/man8/e4defrag.8.html
 
 ## Recommended hardware
 ### Laptop brands
