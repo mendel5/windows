@@ -212,6 +212,18 @@ Question:
 Open the command line (CMD) as an administrator.
 ```
 chkdsk c: /r /v
+
+c:
+Is for the drive with the letter "c".
+Specifies the drive letter (followed by a colon), mount point, or volume name.
+
+/r
+Locates bad sectors and recovers readable information.
+The disk must be locked.
+/r includes the functionality of /f, with the additional analysis of physical disk errors.
+
+/v
+Displays the name of each file in every directory as the disk is checked.
 ```
 
 ```
@@ -234,6 +246,12 @@ Sources:
 Linux:
 ```
 sudo badblocks -sv /dev/sda
+
+-s
+show progress
+
+-v
+be "verbose" and output bad sectors detected to stdout
 ```
 Source:
 - https://wiki.archlinux.org/title/badblocks
@@ -241,6 +259,12 @@ Source:
 Linux:
 ```
 sudo e2fsck -fv /dev/sda2
+
+-f
+Force checking even if the file system seems clean
+
+-v
+Verbose mode
 ```
 - https://unix.stackexchange.com/questions/347280/how-to-perform-full-check-of-ext4-file-system-structure
 
