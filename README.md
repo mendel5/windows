@@ -258,13 +258,16 @@ Source:
 
 Linux:
 ```
-sudo e2fsck -fv /dev/sda2
+sudo e2fsck -fvn /dev/sda2
 
 -f
 Force checking even if the file system seems clean
 
 -v
 Verbose mode
+
+-n
+Open the filesystem read-only, and assume an answer of 'no' to all questions. Allows e2fsck to be used non-interactively.
 ```
 - https://unix.stackexchange.com/questions/347280/how-to-perform-full-check-of-ext4-file-system-structure
 
