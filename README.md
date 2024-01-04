@@ -271,6 +271,18 @@ Open the filesystem read-only, and assume an answer of 'no' to all questions. Al
 ```
 - https://unix.stackexchange.com/questions/347280/how-to-perform-full-check-of-ext4-file-system-structure
 
+## Other important tools
+```
+DISM / dism
+
+sfc
+
+In-place upgrade
+```
+
+Links:
+- https://www.tenforums.com/tutorials/16397-repair-install-windows-10-place-upgrade.html How to Do a Repair Install of Windows 10 with an In-place Upgrade
+
 ## defrag
 Open the command line (CMD) as an administrator.
 ```
