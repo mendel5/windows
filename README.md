@@ -186,7 +186,7 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `msconfig.exe` System Configuration / Systemkonfiguration
 - `SystemPropertiesProtection.exe` System Properties (System Protection) / Systemeigenschaften (Computerschutz)
 - `eventvwr.msc` Event Viewer / Ereignisanzeige, auch `eventvwr.exe`
-- `UserAccountControlSettings.exe`
+- `UserAccountControlSettings.exe` User Account Control Settings (Admin confirmation prompt) / Einstellungen für Benutzerkontensteuerung (Admin-Bestätigung)
 - `wscui.cpl`
 - `appwiz.cpl`
 - `inetcpl.cpl`
