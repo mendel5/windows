@@ -187,7 +187,7 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `SystemPropertiesProtection.exe` System Properties (System Protection) / Systemeigenschaften (Computerschutz)
 - `eventvwr.msc` Event Viewer / Ereignisanzeige, auch `eventvwr.exe`
 - `UserAccountControlSettings.exe` User Account Control Settings (Admin confirmation prompt) / Einstellungen für Benutzerkontensteuerung (Admin-Bestätigung)
-- `wscui.cpl`
+- `wscui.cpl` Security and Maintenance (Control Panel) / Sicherheit und Wartung (Systemsteuerung)
 - `appwiz.cpl`
 - `inetcpl.cpl`
 - `resmon.exe`
@@ -196,8 +196,8 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `rstrui.exe`
 - `services.msc`
 - `sysdm.cpl`
-- `SystemSettings.exe` Modern settings (Windows 10)
-- `control.exe` Classical settings (Windows 7)
+- `SystemSettings.exe` Settings, Modern settings (Windows 10)
+- `control.exe` Control Panel, Classical settings (Windows 7)
 - `control.exe folders` File Explorer Options (Folder options) / Ordneroptionen
 - `control.exe system` Systeminfo
 
