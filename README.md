@@ -164,7 +164,7 @@ Sources:
 - https://www.minitool.com/backup-tips/how-to-disable-onedrive.html
 - https://helpdeskgeek.com/windows-10/how-to-disable-onedrive-on-your-windows-10-pc-why-youd-want-to/
 
-## Useful Windows applications
+## Useful Windows applications and commands
 These applications are almost always included in Windows.
 
 The following applications are located in the folder `C:\WINDOWS\system32\`:
@@ -180,7 +180,21 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `cleanmgr.exe` Disk Cleanup / Datenträgerbereinigung
 - `msconfig.exe` System Configuration / Systemkonfiguration
 - `SystemPropertiesProtection.exe` System Protection / Computerschutzeinstellungen
-- `eventvwr.msc` Event Viewer / Ereignisanzeige
+- `eventvwr.msc` Event Viewer / Ereignisanzeige, also `eventvwr.exe`
+- `UserAccountControlSettings.exe`
+- `wscui.cpl`
+- `appwiz.cpl`
+- `inetcpl.cpl`
+- `resmon.exe`
+- `taskmgr.exe`
+- `cmd.exe`
+- `rstrui.exe`
+- `services.msc`
+- `sysdm.cpl`
+- `SystemSettings.exe` Modern settings (Windows 10)
+- `control.exe` Classical settings (Windows 7)
+- `control.exe folders` File Explorer Options (Folder options) / Ordneroptionen
+- `control.exe system` Systeminfo
 
 The following applications have other locations:
 - `PCHealthCheck.exe` PC Health Check / PC-Integritätsprüfung
