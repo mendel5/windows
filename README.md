@@ -173,6 +173,7 @@ Gemeinsame Symbole auf dem Desktop, Desktopsymboleinstellungen
 These applications are almost always included in Windows.
 
 Most of these programs are part of the "Windows Administrative Tools". Die meisten dieser Programme sind Teil der "Windows-Verwaltungsprogramme".
+- `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools`
 
 The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `winver.exe` About Windows / Info über Windows --> Windows-Version
@@ -198,6 +199,8 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `cmd.exe` Command Prompt / Eingabeaufforderung
 - `rstrui.exe` System Restore / Systemwiederherstellung
 - `services.msc` Services / Dienste
+- `taskschd.msc` Task Scheduler / Aufgabenplanung
+- `printmanagement.msc` Print Management / Druckverwaltung
 - `control.exe` Control Panel / Systemsteuerung, Classical settings (Windows 7)
 - `control.exe folders` File Explorer Options (Folder options) / Ordneroptionen
 - `control.exe system` About (Settings --> System --> About) / Info (Einstellungen --> System --> Info), Device specifications, Rename this PC, Windows specifications
