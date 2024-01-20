@@ -145,6 +145,11 @@ Sources:
 Sources:
 - https://support.microsoft.com/en-us/windows/rename-your-windows-10-pc-750bc75d-8ff8-e99a-b9dc-04dff566ae74
 
+## Show icons on desktop
+Gemeinsame Symbole auf dem Desktop, Desktopsymboleinstellungen
+- Einstellungen --> Personalisierung --> Designs --> Desktopsymboleinstellungen
+- Settings --> Personalization --> Themes --> Desktop icon settings
+
 ## Password of SMB fileshares
 - Press `Win` + `R`
 - Enter `netplwiz.exe`
