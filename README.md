@@ -180,7 +180,7 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `dfrgui.exe` Optimize Drives (Defragment and Optimize Drives) / Laufwerke optimieren (Laufwerke defragmentieren und optimieren)
 - `perfmon.exe` Performance Monitor / Leistungsüberwachung
 - `regedit.exe` Registry Editor / Registrierungs-Editor
-- `netplwiz.exe` User Accounts / Benutzerkontenverwaltung
+- `netplwiz.exe` User Accounts (Manage Passwords) / Benutzerkonten (Kennwörter verwalten)
 - `compmgmt.msc` Computer Management / Computerverwaltung
 - `cleanmgr.exe` Disk Cleanup / Datenträgerbereinigung
 - `msconfig.exe` System Configuration / Systemkonfiguration
