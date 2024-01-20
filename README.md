@@ -177,7 +177,7 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `msinfo32.exe` System Information / Systeminformationen
 - `devmgmt.msc` Device Manager / Geräte-Manager
 - `diskmgmt.msc` Disk Management / Datenträgerverwaltung
-- `dfrgui.exe` Optimize Drives / Laufwerke defragmentieren und optimieren
+- `dfrgui.exe` Optimize Drives (Defragment and Optimize Drives) / Laufwerke optimieren (Laufwerke defragmentieren und optimieren)
 - `perfmon.exe` Resource Monitor / Ressourcenmonitor
 - `regedit.exe` Registry Editor / Registrierungs-Editor
 - `netplwiz.exe` User Accounts / Benutzerkontenverwaltung
