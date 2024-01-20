@@ -165,6 +165,9 @@ Sources:
 - https://helpdeskgeek.com/windows-10/how-to-disable-onedrive-on-your-windows-10-pc-why-youd-want-to/
 
 ## Useful Windows applications
+These applications are almost always included in Windows.
+
+The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `winver.exe` About Windows / Windows-Version
 - `msinfo32.exe` System Information / Systeminformationen
 - `devmgmt.msc` Device Manager / Geräte-Manager
@@ -178,7 +181,10 @@ Sources:
 - `msconfig.exe` System Configuration / Systemkonfiguration
 - `SystemPropertiesProtection.exe` System Protection / Computerschutzeinstellungen
 - `eventvwr.msc` Event Viewer / Ereignisanzeige
-- PC Health Check / PC-Integritätsprüfung
+
+The following applications have other locations:
+- `PCHealthCheck.exe` PC Health Check / PC-Integritätsprüfung
+  - located at `C:\Program Files\PCHealthCheck\PCHealthCheck.exe`
 
 ## Nasty Networking Issue
 - https://social.technet.microsoft.com/Forums/windows/de-DE/17c9ea7d-52df-4ef9-95fa-0a961d11bfa3/fix-for-cannot-access-nas-drives-sharefolder-is-not-accessible-or-quoterror-code
