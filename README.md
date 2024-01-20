@@ -172,6 +172,8 @@ Gemeinsame Symbole auf dem Desktop, Desktopsymboleinstellungen
 ## Useful Windows applications and commands
 These applications are almost always included in Windows.
 
+Most of these programs are part of the "Windows Administrative Tools". Die meisten dieser Programme sind Teil der "Windows-Verwaltungsprogramme".
+
 The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `winver.exe` About Windows / Info über Windows --> Windows-Version
 - `msinfo32.exe` System Information / Systeminformationen
