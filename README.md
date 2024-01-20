@@ -186,6 +186,7 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `compmgmt.msc` Computer Management / Computerverwaltung
 - `cleanmgr.exe` Disk Cleanup / Datenträgerbereinigung
 - `msconfig.exe` System Configuration / Systemkonfiguration
+- `sysdm.cpl` System Properties (Computer Name) / Systemeigenschaften (Computername)
 - `SystemPropertiesProtection.exe` System Properties (System Protection) / Systemeigenschaften (Computerschutz)
 - `eventvwr.msc` Event Viewer / Ereignisanzeige, auch `eventvwr.exe`
 - `UserAccountControlSettings.exe` User Account Control Settings (Admin confirmation prompt) / Einstellungen für Benutzerkontensteuerung (Admin-Bestätigung)
@@ -195,7 +196,6 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `cmd.exe` Command Prompt / Eingabeaufforderung
 - `rstrui.exe` System Restore / Systemwiederherstellung
 - `services.msc` Services / Dienste
-- `sysdm.cpl`
 - `SystemSettings.exe` Settings, Modern settings (Windows 10)
 - `control.exe` Control Panel, Classical settings (Windows 7)
 - `control.exe folders` File Explorer Options (Folder options) / Ordneroptionen
