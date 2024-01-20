@@ -198,14 +198,15 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `cmd.exe` Command Prompt / Eingabeaufforderung
 - `rstrui.exe` System Restore / Systemwiederherstellung
 - `services.msc` Services / Dienste
-- `SystemSettings.exe` Settings, Modern settings (Windows 10)
-- `control.exe` Control Panel, Classical settings (Windows 7)
+- `control.exe` Control Panel / Systemsteuerung, Classical settings (Windows 7)
 - `control.exe folders` File Explorer Options (Folder options) / Ordneroptionen
-- `control.exe system` Systeminfo
+- `control.exe system` About (Settings --> System --> About) / Info (Einstellungen --> System --> Info), Device specifications, Rename this PC, Windows specifications
 
 The following applications have other locations:
 - `PCHealthCheck.exe` PC Health Check / PC-Integritätsprüfung
   - located at `C:\Program Files\PCHealthCheck\PCHealthCheck.exe`
+- `SystemSettings.exe` Settings / Einstellungen, ImmersiveControlPanel, Modern settings (Windows 10)
+  - located at `C:\Windows\ImmersiveControlPanel\SystemSettings.exe`
 
 ## Nasty Networking Issue
 - https://social.technet.microsoft.com/Forums/windows/de-DE/17c9ea7d-52df-4ef9-95fa-0a961d11bfa3/fix-for-cannot-access-nas-drives-sharefolder-is-not-accessible-or-quoterror-code
