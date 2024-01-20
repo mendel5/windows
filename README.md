@@ -178,6 +178,8 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `devmgmt.msc` Device Manager / Geräte-Manager
 - `diskmgmt.msc` Disk Management / Datenträgerverwaltung
 - `dfrgui.exe` Optimize Drives (Defragment and Optimize Drives) / Laufwerke optimieren (Laufwerke defragmentieren und optimieren)
+- `resmon.exe` Resource Monitor / Ressourcenmonitor
+- `taskmgr.exe` Task Manager / Task-Manager (Shortcut: `Ctrl`+`Shift`+`Esc`)
 - `perfmon.exe` Performance Monitor / Leistungsüberwachung
 - `regedit.exe` Registry Editor / Registrierungs-Editor
 - `netplwiz.exe` User Accounts (Manage Passwords) / Benutzerkonten (Kennwörter verwalten)
@@ -189,10 +191,8 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `UserAccountControlSettings.exe` User Account Control Settings (Admin confirmation prompt) / Einstellungen für Benutzerkontensteuerung (Admin-Bestätigung)
 - `wscui.cpl` Security and Maintenance (Control Panel) / Sicherheit und Wartung (Systemsteuerung)
 - `appwiz.cpl` Programs and Features (Control Panel, list of installed programs) / Programme und Features (Systemsteuerung, Liste der installierten Programme)
-- `inetcpl.cpl`
-- `resmon.exe`
-- `taskmgr.exe`
-- `cmd.exe`
+- `inetcpl.cpl` Internet Properties (maybe related to Internet Explorer?) / Eigenschaften von Internet (eventuell für Internet Explorer?)
+- `cmd.exe` Command Prompt / Eingabeaufforderung
 - `rstrui.exe`
 - `services.msc`
 - `sysdm.cpl`
