@@ -193,8 +193,8 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `appwiz.cpl` Programs and Features (Control Panel, list of installed programs) / Programme und Features (Systemsteuerung, Liste der installierten Programme)
 - `inetcpl.cpl` Internet Properties (maybe related to Internet Explorer?) / Eigenschaften von Internet (eventuell für Internet Explorer?)
 - `cmd.exe` Command Prompt / Eingabeaufforderung
-- `rstrui.exe`
-- `services.msc`
+- `rstrui.exe` System Restore / Systemwiederherstellung
+- `services.msc` Services / Dienste
 - `sysdm.cpl`
 - `SystemSettings.exe` Settings, Modern settings (Windows 10)
 - `control.exe` Control Panel, Classical settings (Windows 7)
