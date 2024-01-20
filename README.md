@@ -173,7 +173,7 @@ Gemeinsame Symbole auf dem Desktop, Desktopsymboleinstellungen
 These applications are almost always included in Windows.
 
 The following applications are located in the folder `C:\WINDOWS\system32\`:
-- `winver.exe` About Windows / Windows-Version
+- `winver.exe` About Windows / Info über Windows --> Windows-Version
 - `msinfo32.exe` System Information / Systeminformationen
 - `devmgmt.msc` Device Manager / Geräte-Manager
 - `diskmgmt.msc` Disk Management / Datenträgerverwaltung
