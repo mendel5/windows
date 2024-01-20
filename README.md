@@ -184,7 +184,7 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `compmgmt.msc` Computer Management / Computerverwaltung
 - `cleanmgr.exe` Disk Cleanup / Datenträgerbereinigung
 - `msconfig.exe` System Configuration / Systemkonfiguration
-- `SystemPropertiesProtection.exe` System Protection / Computerschutzeinstellungen
+- `SystemPropertiesProtection.exe` System Properties (System Protection) / Systemeigenschaften (Computerschutz)
 - `eventvwr.msc` Event Viewer / Ereignisanzeige, also `eventvwr.exe`
 - `UserAccountControlSettings.exe`
 - `wscui.cpl`
