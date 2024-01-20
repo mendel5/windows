@@ -188,7 +188,7 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `eventvwr.msc` Event Viewer / Ereignisanzeige, auch `eventvwr.exe`
 - `UserAccountControlSettings.exe` User Account Control Settings (Admin confirmation prompt) / Einstellungen für Benutzerkontensteuerung (Admin-Bestätigung)
 - `wscui.cpl` Security and Maintenance (Control Panel) / Sicherheit und Wartung (Systemsteuerung)
-- `appwiz.cpl`
+- `appwiz.cpl` Programs and Features (Control Panel, list of installed programs) / Programme und Features (Systemsteuerung, Liste der installierten Programme)
 - `inetcpl.cpl`
 - `resmon.exe`
 - `taskmgr.exe`
