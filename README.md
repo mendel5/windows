@@ -201,6 +201,7 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `services.msc` Services / Dienste
 - `taskschd.msc` Task Scheduler / Aufgabenplanung
 - `printmanagement.msc` Print Management / Druckverwaltung
+- `MdSched.exe` Windows Memory Diagnostic / Windows-Speicherdiagnose
 - `control.exe` Control Panel / Systemsteuerung, Classical settings (Windows 7)
 - `control.exe folders` File Explorer Options (Folder options) / Ordneroptionen
 - `control.exe system` About (Settings --> System --> About) / Info (Einstellungen --> System --> Info), Device specifications, Rename this PC, Windows specifications
