@@ -180,6 +180,8 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
   - About Windows: Display Windows version information.
   - Info: Windows-Versionsinformationen anzeigen.
 - `msinfo32.exe` System Information / Systeminformationen
+  - System Information: View advanced information about hardware and software settings.
+  - Systeminformation: Erweiterte Informationen zu Hardware- und Softwareeinstellungen anzeigen.
 - `devmgmt.msc` Device Manager / Geräte-Manager
 - `diskmgmt.msc` Disk Management / Datenträgerverwaltung
 - `dfrgui.exe` Optimize Drives (Defragment and Optimize Drives) / Laufwerke optimieren (Laufwerke defragmentieren und optimieren)
@@ -196,6 +198,8 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `sysdm.cpl` System Properties (Computer Name) / Systemeigenschaften (Computername)
 - `SystemPropertiesProtection.exe` System Properties (System Protection) / Systemeigenschaften (Computerschutz)
 - `eventvwr.msc` Event Viewer / Ereignisanzeige, auch `eventvwr.exe`
+  - Event Viewer: View monitoring and troubleshooting messages.
+  - Ereignisanzeige: Überwachungs- und Problembehandlungsmeldungen anzeigen.
 - `UserAccountControlSettings.exe` User Account Control Settings / Einstellungen für Benutzerkontensteuerung
   - Change UAC Settings: Change User Account Control settings.
   - UAC-Einstellungen ändern: Ändert Einstellungen für Benutzerkontensteuerung.
@@ -203,7 +207,11 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
   - Security and Maintenance: Open Security and Maintenance.
   - Sicherheit und Wartung: Öffnet Sicherheit und Wartung.
 - `appwiz.cpl` Programs and Features (Control Panel, list of installed programs) / Programme und Features (Systemsteuerung, Liste der installierten Programme)
+  - Programs: Launch, add or remove programs and Windows components.
+  - Programme: Programme und Windows-Komponenten starten, hinzufügen oder entfernen.
 - `inetcpl.cpl` Internet Properties (maybe related to Internet Explorer?) / Eigenschaften von Internet (eventuell für Internet Explorer?)
+  - Internet Options: View Internet Properties.
+  - Internetoption: Interneteigenschaften anzeigen.
 - `cmd.exe` Command Prompt / Eingabeaufforderung
 - `rstrui.exe` System Restore / Systemwiederherstellung
 - `services.msc` Services / Dienste
@@ -213,6 +221,8 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `control.exe` Control Panel / Systemsteuerung, Classical settings (Windows 7)
 - `control.exe folders` File Explorer Options (Folder options) / Ordneroptionen
 - `control.exe system` About (Settings --> System --> About) / Info (Einstellungen --> System --> Info), Device specifications, Rename this PC, Windows specifications
+  - System Properties: View basic information about your computer system settings.
+  - Systemeigenschaften: Grundlegende Informationen zu den Systemeinstellungen des Computers anzeigen.
 
 The following applications have other locations:
 - `PCHealthCheck.exe` PC Health Check / PC-Integritätsprüfung
