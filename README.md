@@ -194,7 +194,7 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `perfmon.msc` Performance Monitor / Leistungsüberwachung, auch `perfmon.exe`
   - Performance Monitor: Monitor the performance of local or remote computers.
   - Leistungsüberwachung: Überwacht die Leistung von lokalen Computern oder Remotecomputern.
-- `regedit.exe` Registry Editor / Registrierungs-Editor
+- `regedit.exe` Registry Editor / Registrierungs-Editor (auch `regedt32.exe`)
   - Registry Editor: Make changes to the Windows registry.
   - Registrierungs-Editor: Windows-Registrierung ändern.
 - `netplwiz.exe` User Accounts (Manage Passwords) / Benutzerkonten (Kennwörter verwalten)
