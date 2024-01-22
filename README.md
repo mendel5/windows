@@ -191,7 +191,7 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `resmon.exe` Resource Monitor / Ressourcenmonitor
   - Resource Monitor: Monitor the performance and resource usage of the local computer.
   - Ressourcenmonitor: Überwacht die Leistung und Ressourcennutzung des lokalen Computers.
-- `perfmon.msc` Performance Monitor / Leistungsüberwachung, auch `perfmon.exe`
+- `perfmon.msc` Performance Monitor / Leistungsüberwachung (auch `perfmon.exe`)
   - Performance Monitor: Monitor the performance of local or remote computers.
   - Leistungsüberwachung: Überwacht die Leistung von lokalen Computern oder Remotecomputern.
 - `regedit.exe` Registry Editor / Registrierungs-Editor (auch `regedt32.exe`)
@@ -205,7 +205,7 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `msconfig.exe` System Configuration / Systemkonfiguration
 - `sysdm.cpl` System Properties (Computer Name) / Systemeigenschaften (Computername)
 - `SystemPropertiesProtection.exe` System Properties (System Protection) / Systemeigenschaften (Computerschutz)
-- `eventvwr.msc` Event Viewer / Ereignisanzeige, auch `eventvwr.exe`
+- `eventvwr.msc` Event Viewer / Ereignisanzeige (auch `eventvwr.exe`)
   - Event Viewer: View monitoring and troubleshooting messages.
   - Ereignisanzeige: Überwachungs- und Problembehandlungsmeldungen anzeigen.
 - `UserAccountControlSettings.exe` User Account Control Settings / Einstellungen für Benutzerkontensteuerung
