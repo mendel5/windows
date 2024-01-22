@@ -170,10 +170,8 @@ Gemeinsame Symbole auf dem Desktop, Desktopsymboleinstellungen
 - https://helpdeskgeek.com/windows-10/how-to-disable-onedrive-on-your-windows-10-pc-why-youd-want-to/
 
 ## Useful Windows applications and commands
-These applications are almost always included in Windows.
-
-Most of these programs are part of the "Windows Administrative Tools". Die meisten dieser Programme sind Teil der "Windows-Verwaltungsprogramme".
-- `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools`
+Helpful shortcut:
+- `Win` + `R`: Run / Ausführen
 
 The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `winver.exe` About Windows / Info über Windows --> Windows-Version
@@ -235,6 +233,9 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `control.exe system` About (Settings --> System --> About) / Info (Einstellungen --> System --> Info), Device specifications, Rename this PC, Windows specifications
   - System Properties: View basic information about your computer system settings.
   - Systemeigenschaften: Grundlegende Informationen zu den Systemeinstellungen des Computers anzeigen.
+
+These applications are almost always included in Windows. Most of these programs are part of the "Windows Administrative Tools". Die meisten dieser Programme sind Teil der "Windows-Verwaltungsprogramme".
+- `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools`
 
 The following applications have other locations:
 - `PCHealthCheck.exe` PC Health Check / PC-Integritätsprüfung
