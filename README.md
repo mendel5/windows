@@ -186,9 +186,17 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `diskmgmt.msc` Disk Management / Datenträgerverwaltung
 - `dfrgui.exe` Optimize Drives (Defragment and Optimize Drives) / Laufwerke optimieren (Laufwerke defragmentieren und optimieren)
 - `taskmgr.exe` Task Manager / Task-Manager (Shortcut: `Ctrl`+`Shift`+`Esc`)
+  - Task Manager: View details about programs and processes running on your computer.
+  - Task-Manager: Details zu Programmen und Prozessen anzeigen, die auf dem Computer ausgeführt werden.
 - `resmon.exe` Resource Monitor / Ressourcenmonitor
+  - Resource Monitor: Monitor the performance and resource usage of the local computer.
+  - Ressourcenmonitor: Überwacht die Leistung und Ressourcennutzung des lokalen Computers.
 - `perfmon.msc` Performance Monitor / Leistungsüberwachung, auch `perfmon.exe`
+  - Performance Monitor: Monitor the performance of local or remote computers.
+  - Leistungsüberwachung: Überwacht die Leistung von lokalen Computern oder Remotecomputern.
 - `regedit.exe` Registry Editor / Registrierungs-Editor
+  - Registry Editor: Make changes to the Windows registry.
+  - Registrierungs-Editor: Windows-Registrierung ändern.
 - `netplwiz.exe` User Accounts (Manage Passwords) / Benutzerkonten (Kennwörter verwalten)
 - `compmgmt.msc` Computer Management / Computerverwaltung
   - Computer Management: View and configure system settings and components.
@@ -213,7 +221,11 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
   - Internet Options: View Internet Properties.
   - Internetoption: Interneteigenschaften anzeigen.
 - `cmd.exe` Command Prompt / Eingabeaufforderung
+  - Command Prompt: Open a command prompt window.
+  - Eingabeaufforderung: Eingabeaufforderungsfenster öffnen.
 - `rstrui.exe` System Restore / Systemwiederherstellung
+  - System Restore: Restore your computer system to an earlier state.
+  - Systemwiederherstellung: Früheren Zustand des Computers wiederherstellen.
 - `services.msc` Services / Dienste
 - `taskschd.msc` Task Scheduler / Aufgabenplanung
 - `printmanagement.msc` Print Management / Druckverwaltung
