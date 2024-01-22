@@ -192,7 +192,7 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `sysdm.cpl` System Properties (Computer Name) / Systemeigenschaften (Computername)
 - `SystemPropertiesProtection.exe` System Properties (System Protection) / Systemeigenschaften (Computerschutz)
 - `eventvwr.msc` Event Viewer / Ereignisanzeige, auch `eventvwr.exe`
-- `UserAccountControlSettings.exe` User Account Control Settings (Admin confirmation prompt) / Einstellungen für Benutzerkontensteuerung (Admin-Bestätigung)
+- `UserAccountControlSettings.exe` User Account Control Settings / Einstellungen für Benutzerkontensteuerung
 - `wscui.cpl` Security and Maintenance (Control Panel) / Sicherheit und Wartung (Systemsteuerung)
 - `appwiz.cpl` Programs and Features (Control Panel, list of installed programs) / Programme und Features (Systemsteuerung, Liste der installierten Programme)
 - `inetcpl.cpl` Internet Properties (maybe related to Internet Explorer?) / Eigenschaften von Internet (eventuell für Internet Explorer?)
