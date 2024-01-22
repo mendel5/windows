@@ -177,6 +177,8 @@ Most of these programs are part of the "Windows Administrative Tools". Die meist
 
 The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `winver.exe` About Windows / Info über Windows --> Windows-Version
+  - About Windows: Display Windows version information.
+  - Info: Windows-Versionsinformationen anzeigen.
 - `msinfo32.exe` System Information / Systeminformationen
 - `devmgmt.msc` Device Manager / Geräte-Manager
 - `diskmgmt.msc` Disk Management / Datenträgerverwaltung
@@ -187,13 +189,19 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `regedit.exe` Registry Editor / Registrierungs-Editor
 - `netplwiz.exe` User Accounts (Manage Passwords) / Benutzerkonten (Kennwörter verwalten)
 - `compmgmt.msc` Computer Management / Computerverwaltung
+  - Computer Management: View and configure system settings and components.
+  - Computerverwaltung: Zeigt Systemeinstellungen und -komponenten an und konfiguriert sie.
 - `cleanmgr.exe` Disk Cleanup / Datenträgerbereinigung
 - `msconfig.exe` System Configuration / Systemkonfiguration
 - `sysdm.cpl` System Properties (Computer Name) / Systemeigenschaften (Computername)
 - `SystemPropertiesProtection.exe` System Properties (System Protection) / Systemeigenschaften (Computerschutz)
 - `eventvwr.msc` Event Viewer / Ereignisanzeige, auch `eventvwr.exe`
 - `UserAccountControlSettings.exe` User Account Control Settings / Einstellungen für Benutzerkontensteuerung
+  - Change UAC Settings: Change User Account Control settings.
+  - UAC-Einstellungen ändern: Ändert Einstellungen für Benutzerkontensteuerung.
 - `wscui.cpl` Security and Maintenance (Control Panel) / Sicherheit und Wartung (Systemsteuerung)
+  - Security and Maintenance: Open Security and Maintenance.
+  - Sicherheit und Wartung: Öffnet Sicherheit und Wartung.
 - `appwiz.cpl` Programs and Features (Control Panel, list of installed programs) / Programme und Features (Systemsteuerung, Liste der installierten Programme)
 - `inetcpl.cpl` Internet Properties (maybe related to Internet Explorer?) / Eigenschaften von Internet (eventuell für Internet Explorer?)
 - `cmd.exe` Command Prompt / Eingabeaufforderung
