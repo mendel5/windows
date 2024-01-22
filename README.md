@@ -227,7 +227,16 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `services.msc` Services / Dienste
 - `taskschd.msc` Task Scheduler / Aufgabenplanung
 - `printmanagement.msc` Print Management / Druckverwaltung
-- `MdSched.exe` Windows Memory Diagnostic / Windows-Speicherdiagnose
+- `mdsched.exe` Windows Memory Diagnostic / Windows-Speicherdiagnose
+- `control.exe /name Microsoft.Troubleshooting`
+  - Windows Troubleshooting: Troubleshoot problems with your computer.
+  - Windows-Problembehandlung: Behandelt Probleme mit dem Computer.
+- `cmd.exe /k %windir%\system32\ipconfig.exe`
+  - Internet Protocol Configuration: View and configure network address settings.
+  - Internetprotokollkonfiguration: Netzwerkadresseinstellungen anzeigen und konfigurieren.
+- `msra.exe`
+  - Remote Assistance: Receive help from (or offer help to) a friend over the Internet.
+  - Remoteunterstützung: Über das Internet Hilfe von einem Freund erhalten (oder einem Freund Hilfe anbieten).
 - `control.exe` Control Panel / Systemsteuerung, Classical settings (Windows 7)
 - `control.exe folders` File Explorer Options (Folder options) / Ordneroptionen
 - `control.exe system` About (Settings --> System --> About) / Info (Einstellungen --> System --> Info), Device specifications, Rename this PC, Windows specifications
