@@ -247,6 +247,7 @@ These applications are almost always included in Windows. Most of these programs
 - `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools`
 
 The following applications have other locations:
+- `This PC` / `Dieser PC`, formerly `My Computer` / ehemals `Arbeitsplatz`
 - `PCHealthCheck.exe` PC Health Check / PC-Integritätsprüfung
   - located at `C:\Program Files\PCHealthCheck\PCHealthCheck.exe`
 - `SystemSettings.exe` Settings / Einstellungen, ImmersiveControlPanel, Modern settings (Windows 10)
