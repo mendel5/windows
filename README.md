@@ -248,6 +248,7 @@ These applications are almost always included in Windows. Most of these programs
 
 The following applications have other locations:
 - `This PC`, formerly `My Computer` / `Dieser PC`, ehemals `Arbeitsplatz`
+- `Quick access` / `Schnellzugriff`
 - `PCHealthCheck.exe` PC Health Check / PC-Integritätsprüfung
   - located at `C:\Program Files\PCHealthCheck\PCHealthCheck.exe`
 - `SystemSettings.exe` Settings / Einstellungen, ImmersiveControlPanel, Modern settings (Windows 10)
