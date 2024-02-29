@@ -33,7 +33,11 @@ Note: Some content is focused on Germany.
 - Linphone: https://www.linphone.org/technical-corner/linphone
 
 ## Remove Adware and Potentially Unwanted Programs
+- Malware, Virus, Viren, Antiviren, Antivirus, Adware, PUPs
 - AdwCleaner: https://www.malwarebytes.com/adwcleaner
+- Malwarebytes:
+  - https://www.malwarebytes.com/mwb-download
+  - https://de.malwarebytes.com/mwb-download/
 
 ## Other 1
 - O&O ShutUp10 https://www.oo-software.com/en/shutup10
