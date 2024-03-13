@@ -416,8 +416,8 @@ Sources:
 - https://www.heise.de/hintergrund/Missgluecktes-Windows-Update-im-Januar-2024-Was-Sie-tun-koennen-9613929.html
 - https://www.computerbase.de/2024-01/kb5034441-windows-10-update-bricht-mit-fehlercode-0x80070643-ab/
 - https://superuser.com/questions/1210470/multiple-recovery-partitions-in-windows-10
-- Always check if partition is able to shrink first (diskmgmt.msc)!
-- Always disable reagentc before deleting the partition!
+- Always check first if the OS partition is able to shrink (`diskmgmt.msc`)!
+- Always disable `reagentc` before deleting the small recovery partition! Otherwise you have to extract the Windows recovery image (`winre.wim`) from the Windows 10 ISO which is very time consuming.
 
 ```
 reagentc /info
