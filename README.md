@@ -416,9 +416,24 @@ Sources:
 - https://www.heise.de/hintergrund/Missgluecktes-Windows-Update-im-Januar-2024-Was-Sie-tun-koennen-9613929.html
 - https://www.computerbase.de/2024-01/kb5034441-windows-10-update-bricht-mit-fehlercode-0x80070643-ab/
 - https://superuser.com/questions/1210470/multiple-recovery-partitions-in-windows-10
+- Always check if partition is able to shrink first (diskmgmt.msc)!
+- Always disable reagentc before deleting the partition!
 
 ```
+reagentc /info
+reagentc /disable
+reagentc /enable
 
-code
+diskpart
 
+delete partition override
+
+list vol
+
+
+create partition primary id=de94bba4-06d1-4d40-a16a-bfd50179d6ac
+
+gpt attributes =0x8000000000000001
+
+format quick fs=ntfs label="Windows RE tools"
 ```
