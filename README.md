@@ -407,7 +407,7 @@ Sources:
 
 ## Windows Update error: KB5034441 with error code 0x80070643
 - KB5034441: https://support.microsoft.com/en-us/topic/kb5034441-windows-recovery-environment-update-for-windows-10-version-21h2-and-22h2-january-9-2024-62c04204-aaa5-4fee-a02a-2fdea17075a8
-- 0x80070643
+- Error code 0x80070643
 - KB5028997: Instructions to manually resize your partition to install the WinRE update
   - https://support.microsoft.com/en-us/topic/kb5028997-instructions-to-manually-resize-your-partition-to-install-the-winre-update-400faa27-9343-461c-ada9-24c8229763bf
 - https://superuser.com/questions/561605/how-can-i-increase-my-shrink-space-in-disk-management
