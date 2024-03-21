@@ -419,7 +419,7 @@ Sources:
 - https://superuser.com/questions/1210470/multiple-recovery-partitions-in-windows-10
 - Important:
   - Always check first if the OS partition is able to shrink (`diskmgmt.msc`)!
-  - Always disable `reagentc` before deleting the small recovery partition! Otherwise you have to extract the Windows recovery image (`winre.wim`) from the Windows 10 ISO which is very time consuming.
+  - Always disable `reagentc` before deleting a Windows recovery (WinRE) partition! Otherwise you have to extract the Windows recovery image (`winre.wim`) from the Windows 10 ISO which is very time consuming.
   - After all changes have been made, always check in `This PC` and `diskmgmt.msc` that no drive letter is assigned to the newly created WinRE partition. This is especially important for MBR-formatted drives. If a letter is assigned to the partition, then the letter can be removed through `diskmgmt.msc`.
 - Recommended size:
   - Windows 10 EFI partition: `500 MB` - `1000 MB`
