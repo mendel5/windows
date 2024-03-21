@@ -420,7 +420,7 @@ Sources:
 - Important:
   - Always check first if the OS partition is able to shrink (`diskmgmt.msc`)!
   - Always disable `reagentc` before deleting a Windows recovery (WinRE) partition! Otherwise you have to extract the Windows recovery image (`winre.wim`) from the Windows 10 ISO which is very time consuming.
-  - After all changes have been made, always check in `This PC` and `diskmgmt.msc` that no drive letter is assigned to the newly created WinRE partition. This is especially important for MBR-formatted drives. If a letter is assigned to the partition, then the letter can be removed through `diskmgmt.msc`.
+  - After all changes have been made, always check in `This PC` and `diskmgmt.msc` that no drive letter is assigned to the newly created WinRE partition. In other words, the new WinRE partition should not be visible in `This PC`. This is especially important for MBR-formatted drives. If a letter is assigned to the partition, then the letter can be removed through `diskmgmt.msc`.
 - Recommended size:
   - Windows 10 EFI partition: `500 MB` - `1000 MB`
   - Windows 10 recovery partition: `1000 MB` - `2000 MB`
