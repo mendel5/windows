@@ -241,6 +241,7 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `msra.exe`
   - Remote Assistance: Receive help from (or offer help to) a friend over the Internet.
   - Remoteunterstützung: Über das Internet Hilfe von einem Freund erhalten (oder einem Freund Hilfe anbieten).
+- `quickassist.exe` Quick Assist / Remotehilfe (`Ctrl` + `Win` + `Q`)
 - `control.exe` Control Panel / Systemsteuerung, Classical settings (Windows 7)
 - `control.exe folders` File Explorer Options (Folder options) / Ordneroptionen
 - `control.exe system` About (Settings --> System --> About) / Info (Einstellungen --> System --> Info), Device specifications, Rename this PC, Windows specifications
@@ -416,8 +417,10 @@ Sources:
 - https://www.heise.de/hintergrund/Missgluecktes-Windows-Update-im-Januar-2024-Was-Sie-tun-koennen-9613929.html
 - https://www.computerbase.de/2024-01/kb5034441-windows-10-update-bricht-mit-fehlercode-0x80070643-ab/
 - https://superuser.com/questions/1210470/multiple-recovery-partitions-in-windows-10
-- Always check first if the OS partition is able to shrink (`diskmgmt.msc`)!
-- Always disable `reagentc` before deleting the small recovery partition! Otherwise you have to extract the Windows recovery image (`winre.wim`) from the Windows 10 ISO which is very time consuming.
+- Important:
+  - Always check first if the OS partition is able to shrink (`diskmgmt.msc`)!
+  - Always disable `reagentc` before deleting the small recovery partition! Otherwise you have to extract the Windows recovery image (`winre.wim`) from the Windows 10 ISO which is very time consuming.
+  - After all changes have been made, always check in `This PC` and `diskmgmt.msc` that no drive letter is assigned to the newly created WinRE partition. This is especially important for MBR-formatted drives. If a letter is assigned to the partition, then the letter can be removed through `diskmgmt.msc`.
 - Recommended size:
   - Windows 10 EFI partition: `500 MB` - `1000 MB`
   - Windows 10 recovery partition: `1000 MB` - `2000 MB`
