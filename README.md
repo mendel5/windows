@@ -440,3 +440,10 @@ gpt attributes =0x8000000000000001
 
 format quick fs=ntfs label="Windows RE tools"
 ```
+
+## Windows Remotehilfe, Quick Assist
+- Shortcut: `Ctrl` + `Win` + `Q` / `Strg` + `Win` + `Q`
+- https://support.microsoft.com/de-de/windows/l%C3%B6sen-von-pc-problemen-%C3%BCber-eine-remoteverbindung-b077e31a-16f4-2529-1a47-21f6a9040bf3
+- https://support.microsoft.com/en-us/windows/solve-pc-problems-over-a-remote-connection-b077e31a-16f4-2529-1a47-21f6a9040bf3
+- https://learn.microsoft.com/de-de/windows/client-management/client-tools/quick-assist
+- https://support.microsoft.com/de-de/windows/remotehilfe-installieren-c17479b7-a49d-4d12-938c-dbfb97c88bca
