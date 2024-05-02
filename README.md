@@ -24,7 +24,8 @@ Note: Some content is focused on Germany.
 - 7-Zip: https://www.7-zip.org/download.html
 - WizTree Disk Space Analyzer Portable: https://www.diskanalyzer.com/ (a better alternative to WinDirStat)
   - formerly: WinDirStat Portable: https://portableapps.com/de/apps/utilities/windirstat_portable
-- WizFile Portable: https://antibody-software.com/wizfile/
+- WizFile Portable: https://antibody-software.com/wizfile/ Search, file finder
+- Voidtools Everything: https://www.voidtools.com/ Search, file finder
 
 ## Video telephony
 - Microsoft Teams: https://www.microsoft.com/en-us/microsoft-teams/download-app
