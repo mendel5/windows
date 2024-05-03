@@ -418,6 +418,7 @@ Sources:
 - https://www.downloadsource.net/how-to-fix-the-windows-re-image-was-not-found-winre-wim-install-wim-install-esd/n/20721/#google_vignette
 - https://support.microsoft.com/en-us/windows/create-installation-media-for-windows-99a58364-8c02-206f-aa6f-40c3b507420d
 - https://www.heise.de/hintergrund/Missgluecktes-Windows-Update-im-Januar-2024-Was-Sie-tun-koennen-9613929.html
+- https://www.heise.de/news/Microsoft-Keine-automatische-Loesung-fuer-0x80070643-Update-Fehler-mehr-geplant-9706650.html
 - https://www.computerbase.de/2024-01/kb5034441-windows-10-update-bricht-mit-fehlercode-0x80070643-ab/
 - https://superuser.com/questions/1210470/multiple-recovery-partitions-in-windows-10
 - Important:
