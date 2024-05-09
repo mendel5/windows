@@ -61,6 +61,7 @@ Note: Some content is focused on Germany.
 - Deactivate Internet Explorer https://docs.microsoft.com/en-us/troubleshoot/developer/browsers/installation/disable-internet-explorer-windows
 
 ## Other 2
+- Windows Update Driver Store Explorer (RAPR): https://github.com/lostindark/DriverStoreExplorer
 - Snappy Driver Installer Origin: https://www.snappy-driver-installer.org/ (use with caution)
 - Patch My PC (check for outdated software): https://patchmypc.com/home-updater
 - Samsung Magician Software for SSDs: https://semiconductor.samsung.com/consumer-storage/support/tools/
