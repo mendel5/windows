@@ -462,6 +462,9 @@ format quick fs=ntfs label="Windows RE tools"
 ## Phone Link
 - Microsoft Phone Link, `PhoneExperienceHost.exe`
 - https://answers.microsoft.com/en-us/windows/forum/all/phoneexperiencehostexe/c808fa50-1d58-4465-8248-13840c0fb399
+- Press `Windows key` + `X`
+- Select `Windows Powershell (Admin)`
+- Copy and paste this command:
 
 ```
 get-appxpackage *Microsoft.YourPhone* | remove-appxpackage
