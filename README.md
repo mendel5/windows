@@ -50,14 +50,15 @@ Note: Some content is focused on Germany.
 - Settings --> Devices --> Printers & scanners --> `Print server properties`
 
 ### External
-- Nirsoft DevManView
-- Ghostbusters
-- DriverStoreExplorer (RAPR)
-- Sysinternals: AutoRuns
-- Sysinternals: ProcessExplorer
-- WhyNotWin11
-- Wizfile (Windows Search alternative), or Everything
-- Wiztree (WinDirStat alternative)
+- Nirsoft DevManView: https://www.nirsoft.net/utils/device_manager_view.html
+- Ghostbusters: https://www.majorgeeks.com/files/details/ghostbuster.html
+- DriverStoreExplorer (RAPR): https://github.com/lostindark/DriverStoreExplorer
+- Sysinternals AutoRuns: https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns
+- Sysinternals ProcessExplorer: https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer
+- WhyNotWin11: https://github.com/rcmaehl/WhyNotWin11
+- Wizfile (Windows Search alternative): https://antibody-software.com/wizfile/download
+  - or Everything: https://www.voidtools.com/
+- Wiztree (WinDirStat alternative): https://www.diskanalyzer.com/download
 
 ## Other 1
 - O&O ShutUp10 https://www.oo-software.com/en/shutup10
