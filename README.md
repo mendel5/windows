@@ -439,6 +439,9 @@ diskpart
 
 delete partition override
 
+
+list part
+
 list vol
 
 
@@ -455,3 +458,11 @@ format quick fs=ntfs label="Windows RE tools"
 - https://support.microsoft.com/en-us/windows/solve-pc-problems-over-a-remote-connection-b077e31a-16f4-2529-1a47-21f6a9040bf3
 - https://learn.microsoft.com/de-de/windows/client-management/client-tools/quick-assist
 - https://support.microsoft.com/de-de/windows/remotehilfe-installieren-c17479b7-a49d-4d12-938c-dbfb97c88bca
+
+## Phone Link
+- Microsoft Phone Link, `PhoneExperienceHost.exe`
+- https://answers.microsoft.com/en-us/windows/forum/all/phoneexperiencehostexe/c808fa50-1d58-4465-8248-13840c0fb399
+
+```
+get-appxpackage *Microsoft.YourPhone* | remove-appxpackage
+```
