@@ -42,6 +42,14 @@ Note: Some content is focused on Germany.
   - https://www.malwarebytes.com/mwb-download
   - https://de.malwarebytes.com/mwb-download/
 
+## Analysis
+- Task Manager --> Autostart
+- Device Manager, `devmgmt.msc`
+- Disk Management, `diskmgmt.msc`
+- Windows Update Driver Store Explorer (RAPR)
+- Sysinternals: AutoRuns
+- Sysinternals: ProcessExplorer
+
 ## Other 1
 - O&O ShutUp10 https://www.oo-software.com/en/shutup10
 - Windows 10 Decrapifier https://community.spiceworks.com/scripts/show/4378-windows-10-decrapifier-18xx-19xx-2xxx
