@@ -50,6 +50,7 @@ Note: Some content is focused on Germany.
 - Sysinternals: AutoRuns
 - Sysinternals: ProcessExplorer
 - Settings --> Devices --> Printers & scanners --> `Print server properties`
+- WhyNotWin11
 
 ## Other 1
 - O&O ShutUp10 https://www.oo-software.com/en/shutup10
