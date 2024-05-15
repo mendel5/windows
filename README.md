@@ -43,7 +43,7 @@ Note: Some content is focused on Germany.
   - https://de.malwarebytes.com/mwb-download/
 
 ## Analysis
-- Task Manager --> Autostart
+- Task Manager --> Autostart --> Activate `Command line`
 - Device Manager, `devmgmt.msc`
 - Disk Management, `diskmgmt.msc`
 - Windows Update Driver Store Explorer (RAPR)
