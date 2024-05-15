@@ -59,6 +59,8 @@ Note: Some content is focused on Germany.
 - Wizfile (Windows Search alternative): https://antibody-software.com/wizfile/download
   - or Everything: https://www.voidtools.com/
 - Wiztree (WinDirStat alternative): https://www.diskanalyzer.com/download
+- CrystalDiskInfo Portable
+- (HWinfo Portable)
 
 ## Other 1
 - O&O ShutUp10 https://www.oo-software.com/en/shutup10
