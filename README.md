@@ -44,7 +44,7 @@ Note: Some content is focused on Germany.
 
 ## Analysis
 - Task Manager --> Autostart --> Activate `Command line`
-- Device Manager (`devmgmt.msc`) or Nirsoft DevManView
+- Device Manager (`devmgmt.msc`), Alternatives: Nirsoft DevManView or Ghostbusters
 - Disk Management (`diskmgmt.msc`)
 - Windows Update Driver Store Explorer (RAPR)
 - Sysinternals: AutoRuns
