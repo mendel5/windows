@@ -52,7 +52,7 @@ Note: Some content is focused on Germany.
 ### External
 - Nirsoft DevManView
 - Ghostbusters
-- Windows Update Driver Store Explorer (RAPR)
+- DriverStoreExplorer (RAPR)
 - Sysinternals: AutoRuns
 - Sysinternals: ProcessExplorer
 - WhyNotWin11
