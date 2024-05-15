@@ -44,11 +44,12 @@ Note: Some content is focused on Germany.
 
 ## Analysis
 - Task Manager --> Autostart --> Activate `Command line`
-- Device Manager, `devmgmt.msc`
-- Disk Management, `diskmgmt.msc`
+- Device Manager (`devmgmt.msc`) or Nirsoft DevManView
+- Disk Management (`diskmgmt.msc`)
 - Windows Update Driver Store Explorer (RAPR)
 - Sysinternals: AutoRuns
 - Sysinternals: ProcessExplorer
+- Settings --> Devices --> Printers & scanners --> `Print server properties`
 
 ## Other 1
 - O&O ShutUp10 https://www.oo-software.com/en/shutup10
