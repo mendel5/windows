@@ -56,8 +56,8 @@ Note: Some content is focused on Germany.
 - Sysinternals: AutoRuns
 - Sysinternals: ProcessExplorer
 - WhyNotWin11
-- Windows Search alternative
-- WinDirStat alternative
+- Wizfile (Windows Search alternative), or Everything
+- Wiztree (WinDirStat alternative)
 
 ## Other 1
 - O&O ShutUp10 https://www.oo-software.com/en/shutup10
