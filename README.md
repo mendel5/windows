@@ -43,14 +43,21 @@ Note: Some content is focused on Germany.
   - https://de.malwarebytes.com/mwb-download/
 
 ## Analysis
+### Internal
 - Task Manager --> Autostart --> Activate `Command line`
-- Device Manager (`devmgmt.msc`), Alternatives: Nirsoft DevManView or Ghostbusters
+- Device Manager (`devmgmt.msc`)
 - Disk Management (`diskmgmt.msc`)
+- Settings --> Devices --> Printers & scanners --> `Print server properties`
+
+### External
+- Nirsoft DevManView
+- Ghostbusters
 - Windows Update Driver Store Explorer (RAPR)
 - Sysinternals: AutoRuns
 - Sysinternals: ProcessExplorer
-- Settings --> Devices --> Printers & scanners --> `Print server properties`
 - WhyNotWin11
+- Windows Search alternative
+- WinDirStat alternative
 
 ## Other 1
 - O&O ShutUp10 https://www.oo-software.com/en/shutup10
