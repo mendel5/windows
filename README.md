@@ -48,6 +48,10 @@ Note: Some content is focused on Germany.
 - Device Manager (`devmgmt.msc`)
 - Disk Management (`diskmgmt.msc`)
 - Settings --> Devices --> Printers & scanners --> `Print server properties`
+- Bitlocker (see section below)
+
+### Internal: Bitlocker
+
 
 ### External
 - Nirsoft DevManView: https://www.nirsoft.net/utils/device_manager_view.html
