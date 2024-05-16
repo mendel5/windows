@@ -59,8 +59,13 @@ Note: Some content is focused on Germany.
 - How to check Bitlocker status:
   - Disk management (`diskmgmt.msc`)
   - Bitlocker settings (Start menu search for `Bitlocker`)
+- https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/manage-bde
 - https://superuser.com/questions/1299600/is-a-volume-with-bitlocker-waiting-for-activation-encrypted-or-not (there are multiple stages of Bitlocker encryption)
 - https://www.manageengine.com/products/os-deployer/help/how-to-disable-bitlocker-encryption.html
+
+```
+manage-bde -status
+```
 
 ### External
 - Nirsoft DevManView: https://www.nirsoft.net/utils/device_manager_view.html
