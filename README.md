@@ -65,6 +65,8 @@ Note: Some content is focused on Germany.
 
 ```
 manage-bde -status
+
+manage-bde –off C:
 ```
 
 ### External
