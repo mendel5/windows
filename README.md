@@ -44,14 +44,23 @@ Note: Some content is focused on Germany.
 
 ## Analysis
 ### Internal
-- Task Manager --> Autostart --> Activate `Command line`
+- Task Manager --> Autostart --> Show `command line`
 - Device Manager (`devmgmt.msc`)
 - Disk Management (`diskmgmt.msc`)
 - Settings --> Devices --> Printers & scanners --> `Print server properties`
+- Check if `TPM` and `Secure Boot` are enabled/active, for example by using `WhyNotWin11`, `msinfo32`, `hwinfo`
+  - https://learn.microsoft.com/en-us/mem/intune/user-help/you-need-to-enable-secure-boot-windows
+  - https://learn.microsoft.com/de-de/mem/intune/user-help/you-need-to-enable-secure-boot-windows
 - Bitlocker (see section below)
 
 ### Internal: Bitlocker
-
+- Always check the status of Bitlocker for all hard drives
+- If Bitlocker is enabled/active, make a backup of all Bitlocker recovery keys and save them somewhere other than the hard drive that is encrypted with Bitlocker (!)
+- How to check Bitlocker status:
+  - Disk management (`diskmgmt.msc`)
+  - Bitlocker settings (Start menu search for `Bitlocker`)
+- https://superuser.com/questions/1299600/is-a-volume-with-bitlocker-waiting-for-activation-encrypted-or-not (there are multiple stages of Bitlocker encryption)
+- https://www.manageengine.com/products/os-deployer/help/how-to-disable-bitlocker-encryption.html
 
 ### External
 - Nirsoft DevManView: https://www.nirsoft.net/utils/device_manager_view.html
