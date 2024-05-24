@@ -304,6 +304,17 @@ The following applications have other locations:
   - located at `C:\Windows\ImmersiveControlPanel\SystemSettings.exe`
 
 ## Nasty Networking Issue
+Problem:
+- Windows 10 error code 0x80070035
+- When trying to open a network share, Windows 10 does not show a prompt to enter the username and password
+
+Solution:
+- Enter the NAS hostname, username and password manually via `netplwiz`
+
+Question:
+- Why does Windows 10 not show the prompt to enter the username and password for a network share? Maybe it is related to the user permissions or rights?
+
+Links:
 - https://social.technet.microsoft.com/Forums/windows/de-DE/17c9ea7d-52df-4ef9-95fa-0a961d11bfa3/fix-for-cannot-access-nas-drives-sharefolder-is-not-accessible-or-quoterror-code
 - https://www.stellarinfo.co.in/blog/how-to-fix-nas-device-not-visible-on-windows-10/
 - https://kb.synology.com/en-nz/DSM/tutorial/What_can_I_do_if_my_Synology_NAS_does_not_show_up_in_Network_in_Windows_File_Explorer
@@ -320,16 +331,6 @@ The following applications have other locations:
 - https://docs.microsoft.com/en-us/troubleshoot/windows-client/networking/mapped-drives-not-available-from-elevated-command
 - https://docs.qnap.com/operating-system/qts/5.0.x/de-de/webserver-091B47DC.html
 - https://forum.qnapclub.de/thread/58177-keine-verbindung-%C3%BCber-browser/
-
-Problem:
-- Windows 10 error code 0x80070035
-- When trying to open a network share, Windows 10 does not show a prompt to enter the username and password
-
-Solution:
-- Enter the NAS hostname, username and password manually via `netplwiz`
-
-Question:
-- Why does Windows 10 not show the prompt to enter the username and password for a network share? Maybe it is related to the user permissions or rights?
 
 ## chkdsk
 Open the command line (CMD) as an administrator.
