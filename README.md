@@ -510,3 +510,10 @@ format quick fs=ntfs label="Windows RE tools"
 ```
 get-appxpackage *Microsoft.YourPhone* | remove-appxpackage
 ```
+
+## Lenovo Touchpad not working properly
+Problem:
+- After updating the touchpad (trackpad) and trackpoint of a Lenovo laptop with the `ELAN TrackPoint Firmware Update Utility`, the touchpad is not working properly anymore. It is laggy, unresponsive and does not register all inputs. Unfortunately there is no old firmware available that could be used to overwrite the new firmware. Note: This is about firmwre, not about drivers.
+
+Solution:
+- Go to the UEFI-BIOS and set the trackpoint to `Disabled` but keep the touchpad `Enabled`. Unfortunately you will not be able to use the trackpoint (the red dot embedded in the keyboard) anymore and also the three mouse buttons above the touchpad will not work anymore. However, the touchpad is working again. This is not a perfect solution, but at least you can use the laptop without having to connect an external mouse.
