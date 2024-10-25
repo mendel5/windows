@@ -285,7 +285,7 @@ The following applications are located in the folder `C:\WINDOWS\system32\`:
 - `msra.exe`
   - Remote Assistance: Receive help from (or offer help to) a friend over the Internet.
   - Remoteunterstützung: Über das Internet Hilfe von einem Freund erhalten (oder einem Freund Hilfe anbieten).
-- `quickassist.exe` Quick Assist / Remotehilfe (`Ctrl` + `Win` + `Q`)
+- `quickassist.exe` Quick Assist / Remotehilfe (Windows 10), Schnellhilfe (Windows 11), `Ctrl` + `Win` + `Q`
 - `control.exe` Control Panel / Systemsteuerung, Classical settings (Windows 7)
 - `control.exe folders` File Explorer Options (Folder options) / Ordneroptionen
 - `control.exe system` About (Settings --> System --> About) / Info (Einstellungen --> System --> Info), Device specifications, Rename this PC, Windows specifications
@@ -493,7 +493,7 @@ gpt attributes =0x8000000000000001
 format quick fs=ntfs label="Windows RE tools"
 ```
 
-## Windows Remotehilfe, Quick Assist
+## Windows Remotehilfe, Schnellhilfe, Quick Assist
 - Shortcut: `Ctrl` + `Win` + `Q` / `Strg` + `Win` + `Q`
 - https://support.microsoft.com/de-de/windows/l%C3%B6sen-von-pc-problemen-%C3%BCber-eine-remoteverbindung-b077e31a-16f4-2529-1a47-21f6a9040bf3
 - https://support.microsoft.com/en-us/windows/solve-pc-problems-over-a-remote-connection-b077e31a-16f4-2529-1a47-21f6a9040bf3
