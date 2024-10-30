@@ -5,6 +5,13 @@ Useful information, tips & tricks and other relevant resources to properly confi
 
 Note: Some content is focused on Germany.
 
+## Windows version
+- Winver: Check the installed Windows version (`winver.exe`)
+  - https://learn.microsoft.com/en-us/windows/release-health/release-information
+  - https://en.wikipedia.org/wiki/Windows_10
+  - https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information
+  - https://en.wikipedia.org/wiki/Windows_11
+
 ## Programs
 - Mozilla Firefox: https://www.mozilla.org/en-US/firefox/all/
 - Google Chrome: https://www.google.com/intl/en-US/chrome/
