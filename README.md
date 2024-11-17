@@ -50,7 +50,7 @@ Note: Some content is focused on Germany.
   - https://de.malwarebytes.com/mwb-download/
 
 ## Analysis
-### Internal
+### Internal tools
 - Task Manager --> Autostart --> Show `command line`
 - Device Manager (`devmgmt.msc`)
 - Disk Management (`diskmgmt.msc`)
@@ -60,7 +60,7 @@ Note: Some content is focused on Germany.
   - https://learn.microsoft.com/de-de/mem/intune/user-help/you-need-to-enable-secure-boot-windows
 - Bitlocker (see section below)
 
-### Internal: Bitlocker
+### Internal tool: Bitlocker
 - Always check the status of Bitlocker for all hard drives
 - If Bitlocker is enabled/active, make a backup of all Bitlocker recovery keys and save them somewhere other than the hard drive that is encrypted with Bitlocker (!)
 - How to check Bitlocker status:
@@ -76,7 +76,7 @@ manage-bde -status
 manage-bde -off C:
 ```
 
-### External
+### External tools
 - Nirsoft DevManView: https://www.nirsoft.net/utils/device_manager_view.html
 - Ghostbusters: https://www.majorgeeks.com/files/details/ghostbuster.html
 - DriverStoreExplorer (RAPR): https://github.com/lostindark/DriverStoreExplorer
@@ -309,6 +309,11 @@ The following applications have other locations:
   - located at `C:\Program Files\PCHealthCheck\PCHealthCheck.exe`
 - `SystemSettings.exe` Settings / Einstellungen, ImmersiveControlPanel, Modern settings (Windows 10)
   - located at `C:\Windows\ImmersiveControlPanel\SystemSettings.exe`
+
+## Useful shortcuts
+- Keyboard shortcuts in Windows https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec
+- `Ctrl` + `Shift` + `Win` + `B`: Wake PC from blank or black screen (commonly understood to "restart the graphics driver")
+  - https://superuser.com/questions/1127463/what-does-ctrlwinshiftb-do-in-windows
 
 ## Nasty Networking Issue
 Problem:
