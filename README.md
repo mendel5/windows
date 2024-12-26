@@ -525,7 +525,21 @@ get-appxpackage *Microsoft.YourPhone* | remove-appxpackage
 
 ## Lenovo Touchpad not working properly
 Problem:
-- After updating the touchpad (trackpad) and trackpoint of a Lenovo laptop with the `ELAN TrackPoint Firmware Update Utility`, the touchpad is not working properly anymore. It is laggy, unresponsive and does not register all inputs. Unfortunately there is no old firmware available that could be used to overwrite the new firmware. Note: This is about firmwre, not about drivers.
+- After updating the firmware of a touchpad (trackpad) and trackpoint of a Lenovo laptop with the `ELAN TrackPoint Firmware Update Utility`, the touchpad is not working properly anymore. It is laggy, unresponsive and does not register all inputs. Unfortunately there is no old firmware available that could be used to overwrite the new firmware. Note: This is about firmwre, not about drivers.
 
 Solution:
 - Go to the UEFI-BIOS and set the trackpoint to `Disabled` but keep the touchpad `Enabled`. Unfortunately you will not be able to use the trackpoint (the red dot embedded in the keyboard) anymore and also the three mouse buttons above the touchpad will not work anymore. However, the touchpad is working again. This is not a perfect solution, but at least you can use the laptop without having to connect an external mouse.
+
+Update from some time later: Unfortunately, this did not fix the touchpad. It is still not working properly.
+
+## Moving to a new Windows computer
+Mozilla Firefox
+- Important folder paths can be found here: `about:profiles`
+- `C:\Users\my_username\AppData\Roaming\Mozilla\Firefox\Profiles\abc123.default`
+- `C:\Users\my_username\AppData\Local\Mozilla\Firefox\Profiles\abc123.default`
+
+Mozilla Thunderbird
+- Important folder paths can be found here: `about:profiles`
+- `Menüleiste` --> `Hilfe` --> `Informationen zur Fehlerbehebung` --> `Allgemeine Informationen` --> `about:profiles` anklicken
+- `C:\Users\my_username\AppData\Roaming\Mozilla\Firefox\Profiles\abc123.default`
+- `C:\Users\my_username\AppData\Local\Mozilla\Firefox\Profiles\abc123.default`
