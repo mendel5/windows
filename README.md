@@ -535,11 +535,16 @@ Update from some time later: Unfortunately, this did not fix the touchpad. It is
 ## Moving to a new Windows computer
 Mozilla Firefox
 - Important folder paths can be found here: `about:profiles`
-- `C:\Users\my_username\AppData\Roaming\Mozilla\Firefox\Profiles\abc123.default`
-- `C:\Users\my_username\AppData\Local\Mozilla\Firefox\Profiles\abc123.default`
+- `C:\Users\my_username\AppData\Roaming\Mozilla\Firefox\Profiles\abc123.default` (Root directory)
+- `C:\Users\my_username\AppData\Local\Mozilla\Firefox\Profiles\abc123.default` (Local directory)
 
 Mozilla Thunderbird
 - Important folder paths can be found here: `about:profiles`
-- `Menüleiste` --> `Hilfe` --> `Informationen zur Fehlerbehebung` --> `Allgemeine Informationen` --> `about:profiles` anklicken
-- `C:\Users\my_username\AppData\Roaming\Mozilla\Firefox\Profiles\abc123.default`
-- `C:\Users\my_username\AppData\Local\Mozilla\Firefox\Profiles\abc123.default`
+  - German: `Menüleiste` --> `Hilfe` --> `Informationen zur Fehlerbehebung` --> `Allgemeine Informationen` (Abschnitt) --> `about:profiles` anklicken (am unteren Ende des Abschnitts)
+  - English: `Menu bar` --> `Help` --> `Troubleshooting Information` --> `Application Basics` (section) --> Click on `about:profiles` (at the bottom of the section)
+- `C:\Users\my_username\AppData\Roaming\Thunderbird\Profiles\abc123.default-release` (Root directory)
+- `C:\Users\my_username\AppData\Local\Thunderbird\Profiles\abc123.default-release` (Local directory)
+- https://www.thunderbird-mail.de/lexicon/entry/40-profil-manager-profile-verwalten-erstellen-und-l%C3%B6schen/#4-Neuerung-ab-Thunderbird-52
+
+Note: The Root Directory stores user profile data such as bookmarks, passwords, and preference settings. The Local Directory stores the disk cache and other temporary data.
+Source: https://support.mozilla.org/en-US/kb/profile-manager-create-remove-switch-firefox-profiles
