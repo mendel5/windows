@@ -533,12 +533,14 @@ Solution:
 Update from some time later: Unfortunately, this did not fix the touchpad. It is still not working properly.
 
 ## Moving to a new Windows computer
-Mozilla Firefox
+Make sure that the application has the same version on the old and new computer.
+
+### Mozilla Firefox
 - Important folder paths can be found here: `about:profiles`
 - `C:\Users\my_username\AppData\Roaming\Mozilla\Firefox\Profiles\abc123.default` (Root directory)
 - `C:\Users\my_username\AppData\Local\Mozilla\Firefox\Profiles\abc123.default` (Local directory)
 
-Mozilla Thunderbird
+### Mozilla Thunderbird
 - Important folder paths can be found here: `about:profiles`
   - German: `Menüleiste` --> `Hilfe` --> `Informationen zur Fehlerbehebung` --> `Allgemeine Informationen` (Abschnitt) --> `about:profiles` anklicken (am unteren Ende des Abschnitts)
   - English: `Menu bar` --> `Help` --> `Troubleshooting Information` --> `Application Basics` (section) --> Click on `about:profiles` (at the bottom of the section)
