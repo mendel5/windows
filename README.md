@@ -550,3 +550,20 @@ Make sure that the application has the same version on the old and new computer.
 
 Note: The Root Directory stores user profile data such as bookmarks, passwords, and preference settings. The Local Directory stores the disk cache and other temporary data.
 Source: https://support.mozilla.org/en-US/kb/profile-manager-create-remove-switch-firefox-profiles
+
+## Bluetooth audio/speaker volume control
+The problem:
+- The volume control of your Bluetooth audio / Bluetooth speaker is not  be working properly.
+- The volume control is only working with two absolute values: either "sound on" (with maximum volume) or "sound off".
+- It does not matter if the bluetooth speaker's volume is set to "1" or to "100", it will always play at the maximum volume.
+- So the problem is that the volume cannot be adjusted with gradual steps.
+
+The solution:
+- Press `Win` + `R`
+- Type `regedit.exe` and press `Enter`
+- Open to this path: `Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Bluetooth\Audio\AVRCP\CT`
+- Look for the entry called `DisableAbsoluteVolume`
+- Set the value of this entry to `1`
+- If the entry does not exist yet, right click in the empty space, click on `New` --> `DWORD (32-bit) Value` to create a new entry, name it `DisableAbsoluteVolume` and set the value to `1`
+- Restart your computer and the volume control of your Bluetooth speaker should be working properly
+- Source: https://oddblogger.com/bluetooth-volume-fix-in-windows-10
