@@ -30,7 +30,7 @@ Note: Some content is focused on Germany.
 - Sysinternals Process Explorer: https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
 - Sysinternals Autoruns: https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
 - Greenshot: https://getgreenshot.org/downloads/ and https://github.com/greenshot/greenshot
-- 7-Zip: https://www.7-zip.org/download.html
+- 7-Zip / 7zip: https://www.7-zip.org/download.html
 - WizTree Disk Space Analyzer Portable: https://www.diskanalyzer.com/ (a better alternative to WinDirStat)
   - formerly: WinDirStat Portable: https://portableapps.com/de/apps/utilities/windirstat_portable
 - WizFile Portable: https://antibody-software.com/wizfile/ Search, file finder
