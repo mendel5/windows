@@ -23,6 +23,7 @@ Note: Some content is focused on Germany.
 - LibreOffice: https://www.libreoffice.org/download/download/
 - VLC Media Player: https://www.videolan.org/vlc/#download
 - iMazing HEIC Converter: https://imazing.com/heic/download
+- Krita: https://krita.org/en/
 
 ## System tools
 - Sysinternals Process Explorer: https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
