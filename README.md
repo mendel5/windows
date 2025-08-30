@@ -25,9 +25,9 @@ Note: Some content is focused on Germany.
 - iMazing HEIC Converter: https://imazing.com/heic/download
 - Krita: https://krita.org/en/
 - Visual Studio Code: https://code.visualstudio.com/
-- Buhl WISO Steuer:
-- OBS Studio:
-- Wireguard:
+- Buhl WISO Steuer: https://www.buhl.de/steuer/
+- OBS Studio: https://obsproject.com/download
+- Wireguard: https://www.wireguard.com/
 - 7-Zip / 7zip: https://www.7-zip.org/download.html
 - Greenshot: https://getgreenshot.org/downloads/ and https://github.com/greenshot/greenshot
 
