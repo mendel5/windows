@@ -25,6 +25,7 @@ Note: Some content is focused on Germany.
 - iMazing HEIC Converter: https://imazing.com/heic/download
 - Krita: https://krita.org/en/
 - Visual Studio Code: https://code.visualstudio.com/
+- Buhl WISO Steuer:
 
 ## System tools
 - Sysinternals Process Explorer: https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
@@ -35,6 +36,8 @@ Note: Some content is focused on Germany.
   - formerly: WinDirStat Portable: https://portableapps.com/de/apps/utilities/windirstat_portable
 - WizFile Portable: https://antibody-software.com/wizfile/ Search, file finder
 - Voidtools Everything: https://www.voidtools.com/ Search, file finder
+- Wireguard:
+- OBS Studio:
 
 ## Video telephony
 - Microsoft Teams: https://www.microsoft.com/en-us/microsoft-teams/download-app
