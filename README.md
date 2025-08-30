@@ -24,6 +24,7 @@ Note: Some content is focused on Germany.
 - VLC Media Player: https://www.videolan.org/vlc/#download
 - iMazing HEIC Converter: https://imazing.com/heic/download
 - Krita: https://krita.org/en/
+- Visual Studio Code: https://code.visualstudio.com/
 
 ## System tools
 - Sysinternals Process Explorer: https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
