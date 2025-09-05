@@ -126,6 +126,9 @@ manage-bde -off C:
 If a programm cannot be uninstalled successfully through the standard procedures, this program might help
 - Revo Uninstaller Free: https://www.revouninstaller.com/revo-uninstaller-free-download/
 
+## Microsoft Office Removal Script
+- https://github.com/Admonstrator/msoffice-removal-tool
+
 ## Network Scanner
 - Advanced IP Scanner: https://www.advanced-ip-scanner.com
 - Angry IP Scanner: https://angryip.org
