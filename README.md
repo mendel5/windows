@@ -578,8 +578,16 @@ The solution:
 
 ## First setup of a new Windows computer
 - Ordner-Optionen: Die Einstellung "Dateiendungen ausblenden" deaktivieren
+- Ordner-Optionen: Beim Drücken von `Win` + `E` soll sich der Explorer öffnen
 - Papierkorb: Die Einstellung "Löschen von Dateien bestätigen" aktivieren
-- Windows Updates: Die Einstellung "Erhalten von Updates für weitere Programme aktivieren"
+- Windows Updates: Die Einstellung "Updates für andere Microsoft-Produkte erhalten" aktivieren
 - Mit dem `Microsoft Office Removal Tool` die vorinstallierten Versionen von Office entfernen, siehe https://github.com/Admonstrator/msoffice-removal-tool
 - Startmenü: Internetsuche deaktivieren
 - Akku nur bis 80 Prozent laden
+- Energieeinstellungen: Zeit bis zum Energiesparmodus, Was passiert beim Drücken des Netzschalters, Was passiert beim Zuklappen
+- Speicher-Einstellungen: Nicht automatisch den Downloads-Ordner leeren
+- Sperrbildschirm: Die Einstellung "Unterhaltung, Tipps und Tricks auf dem Sperrbildschirm anzeigen" deaktivieren
+- Desktop-Symbole anpassen: Explorer, Benutzerordner, etc. (Einstellungen --> Personalisierung --> Designs --> Desktopsymboleinstellungen)
+- Personalisierung: Windows-Design: Transparenz-Effekte aus, Windows-Modus dunkel, App-Modus hell
+- Startmenü in der Taskleiste links anordnen (linksbündig), Programmnamen immer komplett anzeigen
+- Einstellungen --> Datenschutz und Sicherheit --> Diagnose und Feedback: Einstellungen anpassen
