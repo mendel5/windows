@@ -591,3 +591,4 @@ The solution:
 - Personalisierung: Windows-Design: Transparenz-Effekte aus, Windows-Modus dunkel, App-Modus hell
 - Startmenü in der Taskleiste links anordnen (linksbündig), Programmnamen immer komplett anzeigen
 - Einstellungen --> Datenschutz und Sicherheit --> Diagnose und Feedback: Einstellungen anpassen
+- Die Einstellungen im UEFI-BIOS überprüfen, siehe der Abschnitt `Get directly to UEFI-BIOS` oben
