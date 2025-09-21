@@ -575,3 +575,11 @@ The solution:
 - If the entry does not exist yet, right click in the empty space, click on `New` --> `DWORD (32-bit) Value` to create a new entry, name it `DisableAbsoluteVolume` and set the value to `1`
 - Restart your computer and the volume control of your Bluetooth speaker should be working properly
 - Source: https://oddblogger.com/bluetooth-volume-fix-in-windows-10
+
+## First setup of a new Windows computer
+- Ordner-Optionen: Die Einstellung "Dateiendungen ausblenden" deaktivieren
+- Papierkorb: Die Einstellung "Löschen von Dateien bestätigen" aktivieren
+- Windows Updates: Die Einstellung "Erhalten von Updates für weitere Programme aktivieren"
+- Mit dem `Microsoft Office Removal Tool` die vorinstallierten Versionen von Office entfernen, siehe https://github.com/Admonstrator/msoffice-removal-tool
+- Startmenü: Internetsuche deaktivieren
+- Akku nur bis 80 Prozent laden
