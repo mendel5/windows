@@ -598,3 +598,5 @@ The solution:
 ## From Windows 10 to Windows 11: Update / Upgrade
 - https://www.microsoft.com/en-us/software-download/windows11
 - https://www.microsoft.com/de-de/software-download/windows11
+- https://support.microsoft.com/en-us/windows/ways-to-install-windows-11-e0edbbfb-cfc5-4011-868b-2ce77ac7c70e
+- https://support.microsoft.com/en-us/windows/check-if-a-device-meets-windows-11-system-requirements-after-changing-device-hardware-f3bc0aeb-6884-41a1-ab57-88258df6812b
