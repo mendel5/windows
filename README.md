@@ -595,6 +595,11 @@ The solution:
 - Microsoft Office: Dateien standardmäßig lokal auf dem Computer speichern statt in der Cloud
 - Microsoft Edge als Standard-Programm für PDF-Dokumente verwenden mit der Einstellung `immer`
 
+## Windows 10: Activate ESU updates
+- ESU / Extended Security Updates / Erweiterte Sicherheitsupdates
+- https://www.microsoft.com/de-de/windows/end-of-support --> oben im Reiter auf `Windows 10` klicken --> ein bisschen nach unten scrollen und etwa in der Mitte der Seite auf `Erweiterte Sicherheitsupdates erhalten` klicken --> es öffnet sich ein Fenster in den Windows-Einstellungen
+- https://www.microsoft.com/en-us/windows/end-of-support
+
 ## From Windows 10 to Windows 11: Update / Upgrade
 - https://www.microsoft.com/en-us/software-download/windows11
 - https://www.microsoft.com/de-de/software-download/windows11
