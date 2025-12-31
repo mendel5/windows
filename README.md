@@ -594,6 +594,7 @@ The solution:
 - Die Einstellungen im UEFI-BIOS überprüfen, siehe der Abschnitt `Get directly to UEFI-BIOS` oben
 - Microsoft Office: Dateien standardmäßig lokal auf dem Computer speichern statt in der Cloud
 - Microsoft Edge als Standard-Programm für PDF-Dokumente verwenden mit der Einstellung `immer`
+- Geräte-Manager: Prüfen, dass im Geräte-Manager keine Geräte mit Fehlermeldungen oder Warnhinweisen (gelbes Schild) angezeigt werden
 
 ## Windows 10: Activate ESU updates
 - ESU / Extended Security Updates / Erweiterte Sicherheitsupdates
