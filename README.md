@@ -595,6 +595,7 @@ The solution:
 - Microsoft Office: Dateien standardmäßig lokal auf dem Computer speichern statt in der Cloud
 - Microsoft Edge als Standard-Programm für PDF-Dokumente verwenden mit der Einstellung `immer`
 - Geräte-Manager: Prüfen, dass im Geräte-Manager keine Geräte mit Fehlermeldungen oder Warnhinweisen (gelbes Schild) angezeigt werden
+- Windows 11: Die PIN soll nicht angefordert werden, nachdem sich der Bildschirm automatisch ausgeschaltet hat. Einstellungen --> Konten --> Anmeldeoptionen --> "Wenn Sie längere Zeit abwesend waren, wann soll Windows Sie zur erneuten Anmeldung auffordern?" --> Nie
 
 ## Windows 10: Activate ESU updates
 - ESU / Extended Security Updates / Erweiterte Sicherheitsupdates
