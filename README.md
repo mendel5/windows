@@ -576,7 +576,8 @@ The solution:
 - Restart your computer and the volume control of your Bluetooth speaker should be working properly
 - Source: https://oddblogger.com/bluetooth-volume-fix-in-windows-10
 
-## First setup of a new Windows computer
+## Einrichtung eines neuen Windows-Computers
+First setup of a new Windows computer
 - Ordner-Optionen: Die Einstellung "Dateiendungen ausblenden" deaktivieren
 - Ordner-Optionen: Beim Drücken von `Win` + `E` soll sich der Explorer öffnen
 - Papierkorb: Die Einstellung "Löschen von Dateien bestätigen" aktivieren
@@ -596,6 +597,7 @@ The solution:
 - Microsoft Edge als Standard-Programm für PDF-Dokumente verwenden mit der Einstellung `immer`
 - Geräte-Manager: Prüfen, dass im Geräte-Manager keine Geräte mit Fehlermeldungen oder Warnhinweisen (gelbes Schild) angezeigt werden
 - Windows 11: Die PIN soll nicht angefordert werden, nachdem sich der Bildschirm automatisch ausgeschaltet hat. Einstellungen --> Konten --> Anmeldeoptionen --> "Wenn Sie längere Zeit abwesend waren, wann soll Windows Sie zur erneuten Anmeldung auffordern?" --> Nie
+- Sekunden im ... anzeigen: Rechtsklick auf die Uhrzeit in der Taskleiste --> ...
 
 ## Windows 10: Activate ESU updates
 - ESU / Extended Security Updates / Erweiterte Sicherheitsupdates
