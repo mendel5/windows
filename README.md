@@ -613,8 +613,16 @@ First setup of a new Windows computer
 ## Office 2003 and Windows 11
 When trying to install Microsoft Office 2003 (including Word 2003, etc.) on Windows 11, there can be multiple issues.
 In Windows Update, there will likely be these two updates and error messages:
-- `Office Live add-in 1.5`
-- `Update für Office 2003 (KB907417)`
+1. `Office Live add-in 1.5`
+2. `Update für Office 2003 (KB907417)`
 
-Attempts at fixing these issues:
+Attempts at fixing issue 1:
 - https://www.computerbase.de/forum/threads/windows-11-office-live-add-in-1-5.2184637/
+- https://www.drwindows.de/xf/threads/office-live-add-in-bring-fehler-beim-windows-update.183718/
+- https://computer.51itpx.com/Software/Productivity-Software/So-deaktivieren-Sie-die-Office-Live-Plug--In-.html
+- https://www.deskmodder.de/phpBB3/viewtopic.php?t=31848
+- https://www.catalog.update.microsoft.com/Search.aspx?q=Office%20Live%20Add-in
+
+Attempts at fixing issue 2:
+- https://www.catalog.update.microsoft.com/Search.aspx?q=KB907417
+- https://www.kh2004.de/tipps/update-fehler-office-2003/
