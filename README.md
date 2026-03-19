@@ -609,3 +609,12 @@ First setup of a new Windows computer
 - https://www.microsoft.com/de-de/software-download/windows11
 - https://support.microsoft.com/en-us/windows/ways-to-install-windows-11-e0edbbfb-cfc5-4011-868b-2ce77ac7c70e
 - https://support.microsoft.com/en-us/windows/check-if-a-device-meets-windows-11-system-requirements-after-changing-device-hardware-f3bc0aeb-6884-41a1-ab57-88258df6812b
+
+## Office 2003 and Windows 11
+When trying to install Microsoft Office 2003 (including Word 2003, etc.) on Windows 11, there can be multiple issues.
+In Windows Update, there will likely be these two updates and error messages:
+- `Office Live add-in 1.5`
+- `Update für Office 2003 (KB907417)`
+
+Attempts at fixing these issues:
+- https://www.computerbase.de/forum/threads/windows-11-office-live-add-in-1-5.2184637/
