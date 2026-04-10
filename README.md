@@ -626,3 +626,9 @@ Attempt nr. 1 to fix the issue:
 Attempt nr. 2 to fix the issue:
 - https://www.catalog.update.microsoft.com/Search.aspx?q=KB907417
 - https://www.kh2004.de/tipps/update-fehler-office-2003/
+
+## Crash dump file: Generate a kernel or complete crash dump
+- https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/generate-a-kernel-or-complete-crash-dump
+- https://superuser.com/questions/1658311/where-does-windows-stores-the-dump-file-if-my-application-crashes
+- `C:\Windows\Minidump`
+- Press `Win` + `R` and run the command `perfmon /rel` to launch the Reliability Monitor (Zuverlässigkeitsüberwachung).
