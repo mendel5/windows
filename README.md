@@ -577,7 +577,7 @@ The solution:
 - Source: https://oddblogger.com/bluetooth-volume-fix-in-windows-10
 
 ## Einrichtung eines neuen Windows-Computers
-First setup of a new Windows computer
+First setup of a new Windows computer (First steps)
 - Ordner-Optionen: Die Einstellung "Dateiendungen ausblenden" deaktivieren
 - Ordner-Optionen: Beim Drücken von `Win` + `E` soll sich der Explorer öffnen
 - Papierkorb: Die Einstellung "Löschen von Dateien bestätigen" aktivieren
@@ -598,6 +598,7 @@ First setup of a new Windows computer
 - Geräte-Manager: Prüfen, dass im Geräte-Manager keine Geräte mit Fehlermeldungen oder Warnhinweisen (gelbes Schild) angezeigt werden
 - Windows 11: Die PIN soll nicht angefordert werden, nachdem sich der Bildschirm automatisch ausgeschaltet hat. Einstellungen --> Konten --> Anmeldeoptionen --> "Wenn Sie längere Zeit abwesend waren, wann soll Windows Sie zur erneuten Anmeldung auffordern?" --> Nie
 - Sekunden in der Mitteilungszentrale (Taskleiste) anzeigen: Rechtsklick auf die Uhrzeit in der Taskleiste --> Datum und Uhrzeit anpassen --> Zeit in der Mitteilungszentrale anzeigen --> Auf "Ein" setzen
+- Aktivitätshistorie (bei Win + Tab): Settings --> Privacy --> Activity history --> uncheck "Store my activity history on this device"
 
 ## Windows 10: Activate ESU updates
 - ESU / Extended Security Updates / Erweiterte Sicherheitsupdates
