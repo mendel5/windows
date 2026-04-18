@@ -520,7 +520,7 @@ format quick fs=ntfs label="Windows RE tools"
 - https://learn.microsoft.com/de-de/windows/client-management/client-tools/quick-assist
 - https://support.microsoft.com/de-de/windows/remotehilfe-installieren-c17479b7-a49d-4d12-938c-dbfb97c88bca
 
-## Phone Link
+## Remove/Uninstall Your Phone / Phone Link
 - Microsoft Phone Link, `PhoneExperienceHost.exe`
 - https://answers.microsoft.com/en-us/windows/forum/all/phoneexperiencehostexe/c808fa50-1d58-4465-8248-13840c0fb399
 - Press `Windows key` + `X`
