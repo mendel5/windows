@@ -356,7 +356,8 @@ Links:
 Open the command line (CMD) as an administrator.
 ```
 chkdsk c: /r /v
-
+```
+```
 c:
 Is for the drive with the letter "c".
 Specifies the drive letter (followed by a colon), mount point, or volume name.
@@ -390,7 +391,8 @@ Sources:
 Linux:
 ```
 sudo badblocks -sv /dev/sda
-
+```
+```
 -s
 show progress
 
@@ -403,7 +405,8 @@ Source:
 Linux:
 ```
 sudo e2fsck -fvn /dev/sda2
-
+```
+```
 -f
 Force checking even if the file system seems clean
 
@@ -431,7 +434,8 @@ Links:
 Open the command line (CMD) as an administrator.
 ```
 defrag c: /h /u /v /x
-
+```
+```
 c:
 Specifies the drive letter or mount point path of the volume to be defragmented or analyzed.
 
