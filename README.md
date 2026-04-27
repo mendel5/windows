@@ -603,6 +603,7 @@ First setup of a new Windows computer (First steps)
 - Windows 11: Die PIN soll nicht angefordert werden, nachdem sich der Bildschirm automatisch ausgeschaltet hat. Einstellungen --> Konten --> Anmeldeoptionen --> "Wenn Sie längere Zeit abwesend waren, wann soll Windows Sie zur erneuten Anmeldung auffordern?" --> Nie
 - Sekunden in der Mitteilungszentrale (Taskleiste) anzeigen: Rechtsklick auf die Uhrzeit in der Taskleiste --> Datum und Uhrzeit anpassen --> Zeit in der Mitteilungszentrale anzeigen --> Auf "Ein" setzen
 - Aktivitätshistorie (bei Win + Tab): Settings --> Privacy --> Activity history --> uncheck "Store my activity history on this device"
+- Optional: Minidump / Memory Dump Version: Set to `Automatic memory dump` (by typing `SystemPropertiesAdvanced.exe` in the start menu --> Startup and Recovery --> Settings)
 
 ## Windows 10: Activate ESU updates
 - ESU / Extended Security Updates / Erweiterte Sicherheitsupdates
