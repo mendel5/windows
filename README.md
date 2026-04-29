@@ -638,3 +638,14 @@ Attempt nr. 2 to fix the issue:
 - https://superuser.com/questions/1658311/where-does-windows-stores-the-dump-file-if-my-application-crashes
 - `C:\Windows\Minidump`
 - Press `Win` + `R` and run the command `perfmon /rel` to launch the Reliability Monitor (Zuverlässigkeitsüberwachung).
+
+## DISM and SFC
+- Use the System File Checker tool to repair missing or corrupted system files
+- https://support.microsoft.com/en-us/topic/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system-files-79aa86cb-ca52-166a-92a3-966e85d4094e
+
+```
+DISM.exe /Online /Cleanup-image /Restorehealth
+```
+```
+sfc /scannow
+```
