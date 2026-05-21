@@ -603,6 +603,7 @@ First setup of a new Windows computer (First steps)
 - Windows 11: Die PIN soll nicht angefordert werden, nachdem sich der Bildschirm automatisch ausgeschaltet hat. Einstellungen --> Konten --> Anmeldeoptionen --> "Wenn Sie längere Zeit abwesend waren, wann soll Windows Sie zur erneuten Anmeldung auffordern?" --> Nie
 - Sekunden in der Mitteilungszentrale (Taskleiste) anzeigen: Rechtsklick auf die Uhrzeit in der Taskleiste --> Datum und Uhrzeit anpassen --> Zeit in der Mitteilungszentrale anzeigen --> Auf "Ein" setzen
 - Aktivitätshistorie (bei Win + Tab): Settings --> Privacy --> Activity history --> uncheck "Store my activity history on this device"
+- Default printer: Settings --> Bluetooth & Devices --> Printers & Scanners --> Scroll down to "Let Windows manage my default printer". By default, this is set to "On". If it is set to "On", then Windows will set the most recently used printer as your default printer. This means that when you print something the next time, the most recently used printer will be used again. If it is set to "Off", the user can set a default printer and this default printer will always be used, independent of any other recently used other printers.
 - Optional: Minidump / Memory Dump Version: Set to `Automatic memory dump` (by typing `SystemPropertiesAdvanced.exe` in the start menu --> Startup and Recovery --> Settings)
 
 ## Windows 10: Activate ESU updates
