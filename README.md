@@ -589,7 +589,8 @@ First setup of a new Windows computer (First steps)
 - Mit dem `Microsoft Office Removal Tool` die vorinstallierten Versionen von Office entfernen, siehe https://github.com/Admonstrator/msoffice-removal-tool
 - Startmenü: Internetsuche deaktivieren
 - Akku nur bis 80 Prozent laden
-- Energieeinstellungen: Zeit bis zum Energiesparmodus, Was passiert beim Drücken des Netzschalters, Was passiert beim Zuklappen
+- Energieeinstellungen: Zeit bis sich der Bildschirm ausschaltet, Zeit bis zum Energiesparmodus, Was passiert beim Drücken des Netzschalters, Was passiert beim Zuklappen, etc.
+- Erweiterte Energieeinstellungen: Zeit bis sich die Festplatte ausschaltet von 20 Minuten (Standard) auf 0 Minuten (Niemals) einstellen
 - Speicher-Einstellungen: Nicht automatisch den Downloads-Ordner leeren
 - Sperrbildschirm: Die Einstellung "Unterhaltung, Tipps und Tricks auf dem Sperrbildschirm anzeigen" deaktivieren
 - Desktop-Symbole anpassen: Explorer, Benutzerordner, etc. (Einstellungen --> Personalisierung --> Designs --> Desktopsymboleinstellungen)
