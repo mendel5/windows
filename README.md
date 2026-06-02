@@ -163,7 +163,7 @@ Source:
 - Copy the following command:
 
 ```
-Get-AppxPackage -allusers Microsoft.549981C3F5F10 | Remove-AppxPackage
+Get-AppxPackage -AllUsers Microsoft.549981C3F5F10 | Remove-AppxPackage
 ```
 
 - Paste it in the Windows PowerShell by pressing `Right click`
@@ -172,7 +172,8 @@ Get-AppxPackage -allusers Microsoft.549981C3F5F10 | Remove-AppxPackage
 If the command above does not work, try one of these commands:
 ```
 Get-AppxPackage *Microsoft.549981C3F5F10* -AllUsers | Remove-AppxPackage -AllUsers
-
+```
+```
 Get-AppxPackage *Microsoft.549981C3F5F10* -AllUsers | Remove-AppxPackage
 ```
 
@@ -180,6 +181,9 @@ Get-AppxPackage *Microsoft.549981C3F5F10* -AllUsers | Remove-AppxPackage
 Similar to the description above.
 ```
 Get-AppxPackage *Xbox* | Remove-AppxPackage
+```
+```
+Get-AppxPackage *Xbox* -AllUsers | Remove-AppxPackage -AllUsers
 ```
 
 Sources:
@@ -532,7 +536,10 @@ format quick fs=ntfs label="Windows RE tools"
 - Copy and paste this command:
 
 ```
-get-appxpackage *Microsoft.YourPhone* | remove-appxpackage
+Get-AppxPackage *Microsoft.YourPhone* | Remove-AppxPackage
+```
+```
+Get-AppxPackage *Microsoft.YourPhone* -AllUsers | Remove-AppxPackage -AllUsers
 ```
 
 ## Lenovo Touchpad not working properly
