@@ -201,7 +201,7 @@ Get-AppxPackage *Microsoft.YourPhone* | Remove-AppxPackage
 Get-AppxPackage *Microsoft.YourPhone* -AllUsers | Remove-AppxPackage
 ```
 
-## Rename a Wired Network Connection
+## Rename a Wired Network Connection (part 1)
 - Press `Win` + `R`
 - Enter `regedit.exe` or simply `regedit`
 - Open the app as an admin, e.g. by pressing `Ctrl` + `Shift` + `Enter`
@@ -214,6 +214,9 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\NetworkList\Prof
 Sources:
 - https://www.tecchannel.de/a/netzwerknamen-unter-windows-10-aendern,3277868
 - https://www.pctipp.ch/praxis/windows/windows-10-netzwerke-umbenennen-so-gehts-2002978.html
+
+## Rename a network connection and network adapter (part 2)
+
 
 ## Change hostname
 - Press the `Windows` key in the bottom left
