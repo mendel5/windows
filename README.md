@@ -47,14 +47,14 @@ Note: Some content is focused on Germany.
 - Teamviewer German: https://www.teamviewer.com/de/download/windows
 - Linphone: https://www.linphone.org/technical-corner/linphone
 
-## Remove Adware and Potentially Unwanted Programs
-- Malware, Virus, Viren, Antiviren, Antivirus, Adware, PUPs
+## Remove adware and potentially unwanted programs
+- Tags: Malware, Virus, Viren, Antiviren, Antivirus, Adware, Potentially Unwanted Programs, PUPs
 - AdwCleaner: https://www.malwarebytes.com/adwcleaner
 - Malwarebytes:
   - https://www.malwarebytes.com/mwb-download
   - https://de.malwarebytes.com/mwb-download/
 
-## Analysis
+## Analysis tools
 ### Internal tools
 - Task Manager --> Autostart --> Show `command line`
 - Device Manager (`devmgmt.msc`)
@@ -122,18 +122,19 @@ manage-bde -off C:
 - Portable Apps: https://portableapps.com/
 - CPU-Z: https://en.wikipedia.org/wiki/CPU-Z
 
-## Remove or Uninstall Programs
+## Remove or uninstall programs
 If a programm cannot be uninstalled successfully through the standard procedures, this program might help
 - Revo Uninstaller Free: https://www.revouninstaller.com/revo-uninstaller-free-download/
 
-## Microsoft Office Removal Script
+## Microsoft Office removal tool
 - https://github.com/Admonstrator/msoffice-removal-tool
 
-## Network Scanner
+## Network scanner
 - Advanced IP Scanner: https://www.advanced-ip-scanner.com
 - Angry IP Scanner: https://angryip.org
 
 ## WhyNotWin11
+- Tags: Windows 11
 - Achitecture: `64bit` instead of `32bit` (both CPU and OS)
 - Boot method: `UEFI` instead of `Legacy`
 - Disk partition type: `GPT` instead of `MBR`
@@ -157,7 +158,7 @@ Source:
 - https://account.microsoft.com/services/microsoft365/install Devices logged in to Microsoft 365
 - https://account.microsoft.com/devices/content Devices linked to the Microsoft Store
 
-## Remove/Uninstall Cortana
+## Remove or uninstall Cortana
 - Right click on the Windows icon in the bottom left
 - Click on `Windows PowerShell (Administrator)`
 - Copy the following command:
@@ -174,7 +175,7 @@ If the command above does not work, try one of these commands:
 Get-AppxPackage *Microsoft.549981C3F5F10* -AllUsers | Remove-AppxPackage
 ```
 
-## Remove/Uninstall Xbox
+## Remove or uninstall Xbox
 Similar to the description above.
 ```
 Get-AppxPackage *Xbox* | Remove-AppxPackage
@@ -187,7 +188,8 @@ Sources:
 - https://www.heise.de/forum/heise-online/Kommentare/Windows-Microsofts-Sound-Management-ist-eine-Qual/Re-Die-ins-Betriebssystem-integrierte-Xbox-Game-Bar/posting-42299195/show/
 - https://www.lifewire.com/remove-xbox-app-from-windows-10-4587103
 
-## Remove/Uninstall Your Phone / Phone Link
+## Remove or uninstall Your Phone / Phone Link
+- Tags: Your Phone, Phone Link
 - Microsoft Phone Link, `PhoneExperienceHost.exe`
 - https://answers.microsoft.com/en-us/windows/forum/all/phoneexperiencehostexe/c808fa50-1d58-4465-8248-13840c0fb399
 - Press `Windows key` + `X`
@@ -201,7 +203,7 @@ Get-AppxPackage *Microsoft.YourPhone* | Remove-AppxPackage
 Get-AppxPackage *Microsoft.YourPhone* -AllUsers | Remove-AppxPackage
 ```
 
-## Rename a Wired Network Connection (part 1)
+## Rename a wired network connection (part 1)
 - Press `Win` + `R`
 - Enter `regedit.exe` or simply `regedit`
 - Open the app as an admin, e.g. by pressing `Ctrl` + `Shift` + `Enter`
@@ -235,17 +237,17 @@ Gemeinsame Symbole auf dem Desktop, Desktopsymboleinstellungen
 - Press `Win` + `R`
 - Enter `netplwiz.exe`
 
-## Remove Web Results from Windows Search
+## Remove web results from Windows Search
 - Suche: `Gruppenrichtlinien bearbeiten` / `gpedit.msc`
 - `Administrative Vorlagen`
 - `Windows-Komponenten`
 - `Suche`
 - `Nicht im Web suchen und keine Webergebnisse in der Suche anzeigen`
 
-## Disable Bing in the Start Menu Search
+## Disable Bing in the start menu search
 - https://www.howtogeek.com/224159/how-to-disable-bing-in-the-windows-10-start-menu/
 
-## Disable OneDrive Synchronization
+## Disable OneDrive synchronization
 - https://www.cbackup.com/articles/stop-onedrive-from-syncing-6688.html
 - https://www.minitool.com/backup-tips/how-to-disable-onedrive.html
 - https://helpdeskgeek.com/windows-10/how-to-disable-onedrive-on-your-windows-10-pc-why-youd-want-to/
@@ -341,7 +343,9 @@ The following applications have other locations:
 - `Ctrl` + `Shift` + `Win` + `B`: Wake PC from blank or black screen (commonly understood to "restart the graphics driver")
   - https://superuser.com/questions/1127463/what-does-ctrlwinshiftb-do-in-windows
 
-## Nasty Networking Issue
+## Windows not connecting to network share (SMB/NAS)
+Previously called: Nasty networking issue
+
 Problem:
 - Windows 10 error code 0x80070035
 - When trying to open a network share, Windows 10 does not show a prompt to enter the username and password
@@ -494,6 +498,7 @@ Sources:
 - Brother
 
 ## Windows Update error: KB5034441 with error code 0x80070643
+- Tags: Windows Recovery Environment update, WinRE, Windows-Wiederherstellungsumgebungsupdate
 - KB5034441: https://support.microsoft.com/en-us/topic/kb5034441-windows-recovery-environment-update-for-windows-10-version-21h2-and-22h2-january-9-2024-62c04204-aaa5-4fee-a02a-2fdea17075a8
 - Error code 0x80070643
 - KB5028997: Instructions to manually resize your partition to install the WinRE update
@@ -571,6 +576,8 @@ Note: The Root Directory stores user profile data such as bookmarks, passwords, 
 Source: https://support.mozilla.org/en-US/kb/profile-manager-create-remove-switch-firefox-profiles
 
 ## Bluetooth audio/speaker volume control
+- Tags: Bluetooth, Audio, Sound, Speaker, Volume, Volume control, Lautsprecher, Lautstärke, Ton
+
 The problem:
 - The volume control of your Bluetooth audio / Bluetooth speaker is not  be working properly.
 - The volume control is only working with two absolute values: either "sound on" (with maximum volume) or "sound off".
