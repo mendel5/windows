@@ -218,7 +218,7 @@ Sources:
 - https://www.pctipp.ch/praxis/windows/windows-10-netzwerke-umbenennen-so-gehts-2002978.html
 
 ## Rename a network connection and network adapter (part 2)
-
+todo
 
 ## Change hostname
 - Press the `Windows` key in the bottom left
