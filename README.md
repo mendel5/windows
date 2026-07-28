@@ -245,6 +245,8 @@ Gemeinsame Symbole auf dem Desktop, Desktopsymboleinstellungen
 - `Nicht im Web suchen und keine Webergebnisse in der Suche anzeigen`
 
 ## Disable Bing in the start menu search
+- Tags: Disable start menu web search, start menu internet search, start menu bing search results
+- https://www.tomshardware.com/how-to/disable-windows-web-search
 - https://www.howtogeek.com/224159/how-to-disable-bing-in-the-windows-10-start-menu/
 
 ## Disable OneDrive synchronization
