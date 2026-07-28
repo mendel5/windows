@@ -56,18 +56,18 @@ Note: Some content is focused on Germany.
 
 ## Analysis tools
 ### Internal tools
-- Task Manager --> Autostart --> Show `command line`
+- Task Manager --> Go to the tab `Autostart` --> Show the column `command line`.
 - Device Manager (`devmgmt.msc`)
 - Disk Management (`diskmgmt.msc`)
-- Settings --> Devices --> Printers & scanners --> `Print server properties`
-- Check if `TPM` and `Secure Boot` are enabled/active, for example by using `WhyNotWin11`, `msinfo32`, `hwinfo`
+- Settings --> Devices --> Printers & scanners --> `Print server properties`.
+- Check if `TPM` and `Secure Boot` are enabled/active, for example by using `WhyNotWin11`, `msinfo32` or `hwinfo`.
   - https://learn.microsoft.com/en-us/mem/intune/user-help/you-need-to-enable-secure-boot-windows
   - https://learn.microsoft.com/de-de/mem/intune/user-help/you-need-to-enable-secure-boot-windows
 - Bitlocker (see section below)
 
 ### Internal tool: Bitlocker
-- Always check the status of Bitlocker for all hard drives
-- If Bitlocker is enabled/active, make a backup of all Bitlocker recovery keys and save them somewhere other than the hard drive that is encrypted with Bitlocker (!)
+- Always check the status of Bitlocker for all hard drives.
+- If Bitlocker is enabled/active, make a backup of all Bitlocker recovery keys and save them somewhere other than the hard drive that is encrypted with Bitlocker (!).
 - How to check Bitlocker status:
   - Disk management (`diskmgmt.msc`)
   - Bitlocker settings (Start menu search for `Bitlocker`)
@@ -81,7 +81,7 @@ manage-bde -status
 manage-bde -off C:
 ```
 
-### External tools
+### External tools (part 1)
 - Nirsoft DevManView: https://www.nirsoft.net/utils/device_manager_view.html
 - Ghostbusters: https://www.majorgeeks.com/files/details/ghostbuster.html
 - DriverStoreExplorer (RAPR): https://github.com/lostindark/DriverStoreExplorer
@@ -92,9 +92,19 @@ manage-bde -off C:
   - or Everything: https://www.voidtools.com/
 - Wiztree (WinDirStat alternative): https://www.diskanalyzer.com/download
 - CrystalDiskInfo Portable: https://www.computerbase.de/downloads/systemtools/festplatten/crystaldiskinfo/
-- HWinfo Portable: https://www.computerbase.de/downloads/systemtools/hwinfo/
+- HWinfo Portable (hardware info, hardware-info): https://www.computerbase.de/downloads/systemtools/hwinfo/
 
-## Other 1
+### External tools (part 2)
+- Windows Update Driver Store Explorer (RAPR): https://github.com/lostindark/DriverStoreExplorer
+- Snappy Driver Installer Origin: https://www.snappy-driver-installer.org/ (use with caution)
+- Patch My PC (check for outdated software): https://patchmypc.com/home-updater
+- Samsung Magician Software for SSDs: https://semiconductor.samsung.com/consumer-storage/support/tools/
+- Micron Crucial Storage Executive: https://www.crucial.com/support/storage-executive
+- CrystalDiskInfo: https://crystalmark.info/en/download/
+- Portable Apps: https://portableapps.com/
+- CPU-Z: https://en.wikipedia.org/wiki/CPU-Z
+
+## Other stuff 1
 - O&O ShutUp10 https://www.oo-software.com/en/shutup10
 - Windows 10 Decrapifier https://community.spiceworks.com/scripts/show/4378-windows-10-decrapifier-18xx-19xx-2xxx
 - YES _ Windows 10: Cortana deinstallieren https://www.netzwelt.de/anleitung/180485-windows-10-cortana-deinstallierenso-gehts.html
@@ -112,18 +122,8 @@ manage-bde -off C:
 - https://superuser.com/questions/1330365/how-will-dism-online-cleanup-image-restorehealth-affect-my-current-configurat
 - Deactivate Internet Explorer https://docs.microsoft.com/en-us/troubleshoot/developer/browsers/installation/disable-internet-explorer-windows
 
-## Other 2
-- Windows Update Driver Store Explorer (RAPR): https://github.com/lostindark/DriverStoreExplorer
-- Snappy Driver Installer Origin: https://www.snappy-driver-installer.org/ (use with caution)
-- Patch My PC (check for outdated software): https://patchmypc.com/home-updater
-- Samsung Magician Software for SSDs: https://semiconductor.samsung.com/consumer-storage/support/tools/
-- Micron Crucial Storage Executive: https://www.crucial.com/support/storage-executive
-- CrystalDiskInfo: https://crystalmark.info/en/download/
-- Portable Apps: https://portableapps.com/
-- CPU-Z: https://en.wikipedia.org/wiki/CPU-Z
-
 ## Remove or uninstall programs
-If a programm cannot be uninstalled successfully through the standard procedures, this program might help
+If a programm cannot be uninstalled successfully through the standard procedures, this program might help:
 - Revo Uninstaller Free: https://www.revouninstaller.com/revo-uninstaller-free-download/
 
 ## Microsoft Office removal tool
@@ -135,16 +135,18 @@ If a programm cannot be uninstalled successfully through the standard procedures
 
 ## WhyNotWin11
 - Tags: Windows 11
-- Achitecture: `64bit` instead of `32bit` (both CPU and OS)
-- Boot method: `UEFI` instead of `Legacy`
-- Disk partition type: `GPT` instead of `MBR`
+- Achitecture: `64bit` instead of `32bit` (both CPU and OS).
+- Boot method: `UEFI` instead of `Legacy`.
+- Disk partition type: `GPT` instead of `MBR`.
 
 Source:
 - https://github.com/rcmaehl/WhyNotWin11
 - Download WhyNotWin11 latest stable release (64-bit): https://github.com/rcmaehl/WhyNotWin11/releases/latest/download/WhyNotWin11.exe
 
 ## Get directly to UEFI-BIOS
-How to restart/reboot Windows 10 to get directly to UEFI-BIOS. Warning: Even before you initiate the restart, all open apps will be closed. Save your work before you do this!
+How to restart/reboot Windows 10 to get directly to UEFI-BIOS.
+
+Warning: Even before you initiate the restart, all windows and apps that are open will be closed (even if you don't do the restart). Save your work before you do this!
 - Shift method (recommended): `Start menu` --> select `Power` (Power button icon) --> hold `Shift` on keyboard while selecting `Restart` (this closes all Windows apps) --> select `Troubleshoot` --> `Advanced options` --> `UEFI firmware settings`
 - Settings method: `Windows settings` --> `Update & Security` --> `Recovery` --> `Advanced startup` --> `Restart now` --> `Troubleshoot` --> `Advanced options` --> `UEFI firmware settings`
 
@@ -159,24 +161,27 @@ Source:
 - https://account.microsoft.com/devices/content Devices linked to the Microsoft Store
 
 ## Remove or uninstall Cortana
-- Right click on the Windows icon in the bottom left
-- Click on `Windows PowerShell (Administrator)`
+- Right-click on the Windows icon in the bottom left.
+- Click on `Windows PowerShell (Administrator)`.
 - Copy the following command:
 
 ```
 Get-AppxPackage -AllUsers Microsoft.549981C3F5F10 | Remove-AppxPackage
 ```
 
-- Paste it in the Windows PowerShell by pressing `Right click` (mouse)
-- Press Enter
+- Paste it in the Windows PowerShell by pressing `Right-click` (mouse).
+- Press Enter.
 
-If the command above does not work, try one of these commands:
+If the command above does not work, try this command:
 ```
 Get-AppxPackage *Microsoft.549981C3F5F10* -AllUsers | Remove-AppxPackage
 ```
 
 ## Remove or uninstall Xbox
 Similar to the description above.
+
+Be careful with this command.
+
 ```
 Get-AppxPackage *Xbox* | Remove-AppxPackage
 ```
@@ -192,8 +197,8 @@ Sources:
 - Tags: Your Phone, Phone Link
 - Microsoft Phone Link, `PhoneExperienceHost.exe`
 - https://answers.microsoft.com/en-us/windows/forum/all/phoneexperiencehostexe/c808fa50-1d58-4465-8248-13840c0fb399
-- Press `Windows key` + `X`
-- Select `Windows Powershell (Admin)`
+- Press `Windows key` + `X`.
+- Select `Windows Powershell (Admin)`.
 - Copy and paste this command:
 
 ```
@@ -204,14 +209,14 @@ Get-AppxPackage *Microsoft.YourPhone* -AllUsers | Remove-AppxPackage
 ```
 
 ## Rename a wired network connection (part 1)
-- Press `Win` + `R`
-- Enter `regedit.exe` or simply `regedit`
-- Open the app as an admin, e.g. by pressing `Ctrl` + `Shift` + `Enter`
+- Press `Win` + `R`.
+- Enter `regedit.exe` or simply `regedit`.
+- Open the app as an admin, e.g. by pressing `Ctrl` + `Shift` + `Enter`.
 - Open this path:
 ```
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\NetworkList\Profiles
 ```
-- The profiles are listed in the folders below
+- The profiles are listed in the folders below.
 
 Sources:
 - https://www.tecchannel.de/a/netzwerknamen-unter-windows-10-aendern,3277868
@@ -220,34 +225,37 @@ Sources:
 ## Rename a network connection and network adapter (part 2)
 todo
 
-## Change hostname
-- Press the `Windows` key in the bottom left
-- Search for `PC Info`
-- Click on `Rename this PC`
+## Change Windows hostname
+- Tags: Change Windows hostname, Change Windows PC name, Rename Windows PC
+- Press the `Windows` key in the bottom left.
+- Search for `PC Info`.
+- Click on `Rename this PC`.
 
 Sources:
 - https://support.microsoft.com/en-us/windows/rename-your-windows-10-pc-750bc75d-8ff8-e99a-b9dc-04dff566ae74
 
 ## Show icons on desktop
-Gemeinsame Symbole auf dem Desktop, Desktopsymboleinstellungen
+- Tags: Gemeinsame Symbole auf dem Desktop, Desktopsymboleinstellungen
 - Einstellungen --> Personalisierung --> Designs --> Desktopsymboleinstellungen
 - Settings --> Personalization --> Themes --> Desktop icon settings
 
 ## Password of SMB fileshares
-- Press `Win` + `R`
-- Enter `netplwiz.exe`
+- Press `Win` + `R`.
+- Enter `netplwiz.exe`.
+- Go to the tab `Advanced`.
+- In the section `Passwords`, click on `Manage passwords`.
 
-## Remove web results from Windows Search
+## Disable Bing in the start menu search (part 1)
+- Tags: Disable start menu web search, start menu internet search, start menu bing search results
+- https://www.tomshardware.com/how-to/disable-windows-web-search <-- Use this one
+- https://www.howtogeek.com/224159/how-to-disable-bing-in-the-windows-10-start-menu/
+
+## Remove web results from Windows Search (part 2)
 - Suche: `Gruppenrichtlinien bearbeiten` / `gpedit.msc`
 - `Administrative Vorlagen`
 - `Windows-Komponenten`
 - `Suche`
 - `Nicht im Web suchen und keine Webergebnisse in der Suche anzeigen`
-
-## Disable Bing in the start menu search
-- Tags: Disable start menu web search, start menu internet search, start menu bing search results
-- https://www.tomshardware.com/how-to/disable-windows-web-search
-- https://www.howtogeek.com/224159/how-to-disable-bing-in-the-windows-10-start-menu/
 
 ## Disable OneDrive synchronization
 - https://www.cbackup.com/articles/stop-onedrive-from-syncing-6688.html
@@ -342,18 +350,18 @@ The following applications have other locations:
 
 ## Useful shortcuts
 - Keyboard shortcuts in Windows https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec
-- `Ctrl` + `Shift` + `Win` + `B`: Wake PC from blank or black screen (commonly understood to "restart the graphics driver")
+- `Ctrl` + `Shift` + `Win` + `B`: Wake PC from blank or black screen (commonly understood to "restart the graphics driver").
   - https://superuser.com/questions/1127463/what-does-ctrlwinshiftb-do-in-windows
 
 ## Windows not connecting to network share (SMB/NAS)
-Previously called: Nasty networking issue
+Previously called: Nasty networking issue.
 
 Problem:
 - Windows 10 error code 0x80070035
-- When trying to open a network share, Windows 10 does not show a prompt to enter the username and password
+- When trying to open a network share, Windows 10 does not show a prompt to enter the username and password that are required to access the network share.
 
 Solution:
-- Enter the NAS hostname, username and password manually via `netplwiz.exe`
+- Enter the NAS hostname, username and password manually via `netplwiz.exe`.
 
 Question:
 - Why does Windows 10 not show the prompt to enter the username and password for a network share? Maybe it is related to the user permissions or rights?
@@ -379,10 +387,10 @@ Links:
 ## chkdsk
 Open the command line (CMD) as an administrator.
 ```
-chkdsk c: /r /v
+chkdsk C: /r /v
 ```
 ```
-c:
+C:
 Is for the drive with the letter "c".
 Specifies the drive letter (followed by a colon), mount point, or volume name.
 
@@ -457,10 +465,10 @@ Links:
 ## defrag
 Open the command line (CMD) as an administrator.
 ```
-defrag c: /h /u /v /x
+defrag C: /h /u /v /x
 ```
 ```
-c:
+C:
 Specifies the drive letter or mount point path of the volume to be defragmented or analyzed.
 
 /h
@@ -517,8 +525,8 @@ Sources:
   - Always disable `reagentc` before deleting a Windows recovery (WinRE) partition! Otherwise you have to extract the Windows recovery image (`winre.wim`) from the Windows 10 ISO which is very time consuming.
   - After all changes have been made, always check in `This PC` and `diskmgmt.msc` that no drive letter is assigned to the newly created WinRE partition. In other words, the new WinRE partition should not be visible in `This PC`. This is especially important for MBR-formatted drives. If a letter is assigned to the partition, then the letter can be removed through `diskmgmt.msc`.
 - Recommended size:
-  - Windows 10 EFI partition: `500 MB` - `1000 MB`
-  - Windows 10 recovery partition: `1000 MB` - `2000 MB`
+  - Windows 10 EFI partition: `500 MB` - `1000 MB`.
+  - Windows 10 recovery partition: `1000 MB` - `2000 MB`.
 
 ```
 reagentc /info
@@ -551,10 +559,10 @@ format quick fs=ntfs label="Windows RE tools"
 
 ## Lenovo Touchpad not working properly
 Problem:
-- After updating the firmware of a touchpad (trackpad) and trackpoint of a Lenovo laptop with the `ELAN TrackPoint Firmware Update Utility`, the touchpad is not working properly anymore. It is laggy, unresponsive and does not register all inputs. Unfortunately there is no old firmware available that could be used to overwrite the new firmware. Note: This is about firmwre, not about drivers.
+- After updating the firmware of a touchpad (trackpad) and trackpoint of a Lenovo laptop with the `ELAN TrackPoint Firmware Update Utility`, the touchpad is not working properly anymore. It is laggy, unresponsive and does not register all inputs. Unfortunately, there is no old firmware available that could be used to overwrite the new firmware. Note: This is about firmwre, not about drivers.
 
 Solution:
-- Go to the UEFI-BIOS and set the trackpoint to `Disabled` but keep the touchpad `Enabled`. Unfortunately you will not be able to use the trackpoint (the red dot embedded in the keyboard) anymore and also the three mouse buttons above the touchpad will not work anymore. However, the touchpad is working again. This is not a perfect solution, but at least you can use the laptop without having to connect an external mouse.
+- Go to the UEFI-BIOS and set the trackpoint to `Disabled` but keep the touchpad `Enabled`. Unfortunately, you will not be able to use the trackpoint (the red dot embedded in the keyboard) anymore and also the three mouse buttons above the touchpad will not work anymore. However, the touchpad is working again. This is not a perfect solution, but at least you can use the laptop without having to connect an external mouse.
 
 Update from some time later: Unfortunately, this did not fix the touchpad. It is still not working properly.
 
@@ -577,8 +585,8 @@ Make sure that the application has the same version on the old and new computer.
 Note: The Root Directory stores user profile data such as bookmarks, passwords, and preference settings. The Local Directory stores the disk cache and other temporary data.
 Source: https://support.mozilla.org/en-US/kb/profile-manager-create-remove-switch-firefox-profiles
 
-## Bluetooth audio/speaker volume control
-- Tags: Bluetooth, Audio, Sound, Speaker, Volume, Volume control, Lautsprecher, Lautstärke, Ton
+## Bluetooth audio volume control
+- Tags: Bluetooth, audio, sound, speaker, volume, volume control, Lautsprecher, Lautstärke, Ton
 
 The problem:
 - The volume control of your Bluetooth audio / Bluetooth speaker is not  be working properly.
@@ -587,45 +595,45 @@ The problem:
 - So the problem is that the volume cannot be adjusted with gradual steps.
 
 The solution:
-- Press `Win` + `R`
-- Type `regedit.exe` and press `Enter`
-- Open to this path: `Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Bluetooth\Audio\AVRCP\CT`
-- Look for the entry called `DisableAbsoluteVolume`
-- Set the value of this entry to `1`
-- If the entry does not exist yet, right click in the empty space, click on `New` --> `DWORD (32-bit) Value` to create a new entry, name it `DisableAbsoluteVolume` and set the value to `1`
-- Restart your computer and the volume control of your Bluetooth speaker should be working properly
+- Press `Win` + `R`.
+- Type `regedit.exe` and press `Enter`.
+- Open to this path: `Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Bluetooth\Audio\AVRCP\CT`.
+- Look for the entry called `DisableAbsoluteVolume`.
+- Set the value of this entry to `1`.
+- If the entry does not exist yet, right-click in the empty space, click on `New` --> `DWORD (32-bit) Value` to create a new entry, name it `DisableAbsoluteVolume` and set the value to `1`.
+- Restart your computer and the volume control of your Bluetooth speaker should be working properly.
 - Source: https://oddblogger.com/bluetooth-volume-fix-in-windows-10
 
 ## Einrichtung eines neuen Windows-Computers
 First setup of a new Windows computer (First steps)
-- Ordner-Optionen: Die Einstellung "Dateiendungen ausblenden" deaktivieren
-- Ordner-Optionen: Beim Drücken von `Win` + `E` soll sich der Explorer öffnen
-- Papierkorb: Die Einstellung "Löschen von Dateien bestätigen" aktivieren
-- Windows Updates: Die Einstellung "Updates für andere Microsoft-Produkte erhalten" aktivieren
+- Ordner-Optionen: Die Einstellung "Dateiendungen ausblenden" deaktivieren.
+- Ordner-Optionen: Beim Drücken von `Win` + `E` soll sich der Explorer öffnen.
+- Papierkorb: Die Einstellung "Löschen von Dateien bestätigen" aktivieren.
+- Windows Updates: Die Einstellung "Updates für andere Microsoft-Produkte erhalten" aktivieren.
 - Mit dem `Microsoft Office Removal Tool` die vorinstallierten Versionen von Office entfernen, siehe https://github.com/Admonstrator/msoffice-removal-tool
-- Startmenü: Internetsuche deaktivieren
-- Akku nur bis 80 Prozent laden
+- Startmenü: Internetsuche deaktivieren.
+- Akku nur bis 80 Prozent laden.
 - Energieeinstellungen: Zeit bis sich der Bildschirm ausschaltet, Zeit bis zum Energiesparmodus, Was passiert beim Drücken des Netzschalters, Was passiert beim Zuklappen, etc.
-- Erweiterte Energieeinstellungen: Zeit bis sich die Festplatte ausschaltet von 20 Minuten (Standard) auf 0 Minuten (Niemals) einstellen
-- Speicher-Einstellungen: Nicht automatisch den Downloads-Ordner leeren
-- Sperrbildschirm: Die Einstellung "Unterhaltung, Tipps und Tricks auf dem Sperrbildschirm anzeigen" deaktivieren
-- Desktop-Symbole anpassen: Explorer, Benutzerordner, etc. (Einstellungen --> Personalisierung --> Designs --> Desktopsymboleinstellungen)
-- Personalisierung: Windows-Design: Transparenz-Effekte aus, Windows-Modus dunkel, App-Modus hell
-- Startmenü in der Taskleiste links anordnen (linksbündig), Programmnamen immer komplett anzeigen
-- Einstellungen --> Datenschutz und Sicherheit --> Diagnose und Feedback: Einstellungen anpassen
-- Die Einstellungen im UEFI-BIOS überprüfen, siehe der Abschnitt `Get directly to UEFI-BIOS` oben
-- Microsoft Office: Dateien standardmäßig lokal auf dem Computer speichern statt in der Cloud
-- Microsoft Edge als Standard-Programm für PDF-Dokumente verwenden mit der Einstellung `immer`
-- Geräte-Manager: Prüfen, dass im Geräte-Manager keine Geräte mit Fehlermeldungen oder Warnhinweisen (gelbes Schild) angezeigt werden
-- Windows 11: Die PIN soll nicht angefordert werden, nachdem sich der Bildschirm automatisch ausgeschaltet hat. Einstellungen --> Konten --> Anmeldeoptionen --> "Wenn Sie längere Zeit abwesend waren, wann soll Windows Sie zur erneuten Anmeldung auffordern?" --> Nie
-- Sekunden in der Mitteilungszentrale (Taskleiste) anzeigen: Rechtsklick auf die Uhrzeit in der Taskleiste --> Datum und Uhrzeit anpassen --> Zeit in der Mitteilungszentrale anzeigen --> Auf "Ein" setzen
-- Aktivitätshistorie (bei Win + Tab): Settings --> Privacy --> Activity history --> uncheck "Store my activity history on this device"
+- Erweiterte Energieeinstellungen: Zeit bis sich die Festplatte ausschaltet von 20 Minuten (Standard) auf 0 Minuten (Niemals) einstellen.
+- Speicher-Einstellungen: Nicht automatisch den Downloads-Ordner leeren.
+- Sperrbildschirm: Die Einstellung "Unterhaltung, Tipps und Tricks auf dem Sperrbildschirm anzeigen" deaktivieren.
+- Desktop-Symbole anpassen: Explorer, Benutzerordner, etc.: Einstellungen --> Personalisierung --> Designs --> Desktopsymboleinstellungen.
+- Personalisierung: Windows-Design: Transparenz-Effekte aus, Windows-Modus dunkel, App-Modus hell.
+- Startmenü in der Taskleiste links anordnen (linksbündig), Programmnamen immer komplett anzeigen.
+- Einstellungen --> Datenschutz und Sicherheit --> Diagnose und Feedback: Einstellungen anpassen.
+- Die Einstellungen im UEFI-BIOS überprüfen, siehe der Abschnitt `Get directly to UEFI-BIOS` oben.
+- Microsoft Office: Dateien standardmäßig lokal auf dem Computer speichern statt in der Cloud.
+- Microsoft Edge als Standard-Programm für PDF-Dokumente verwenden mit der Einstellung `immer`.
+- Geräte-Manager: Prüfen, dass im Geräte-Manager keine Geräte mit Fehlermeldungen oder Warnhinweisen (gelbes Schild) angezeigt werden.
+- Windows 11: Die PIN soll nicht angefordert werden, nachdem sich der Bildschirm automatisch ausgeschaltet hat. Einstellungen --> Konten --> Anmeldeoptionen --> "Wenn Sie längere Zeit abwesend waren, wann soll Windows Sie zur erneuten Anmeldung auffordern?" --> Nie.
+- Sekunden in der Mitteilungszentrale (Taskleiste) anzeigen: Rechtsklick auf die Uhrzeit in der Taskleiste --> Datum und Uhrzeit anpassen --> Zeit in der Mitteilungszentrale anzeigen --> Auf "Ein" setzen.
+- Aktivitätshistorie (bei Win + Tab): Settings --> Privacy --> Activity history --> uncheck "Store my activity history on this device".
 - Default printer: Settings --> Bluetooth & Devices --> Printers & Scanners --> Scroll down to "Let Windows manage my default printer". By default, this is set to "On". If it is set to "On", then Windows will set the most recently used printer as your default printer. This means that when you print something the next time, the most recently used printer will be used again. If it is set to "Off", the user can set a default printer and this default printer will always be used, independent of any other recently used printers.
-- Optional: Minidump / Memory Dump Version: Set to `Automatic memory dump` (by typing `SystemPropertiesAdvanced.exe` in the start menu --> Startup and Recovery --> Settings)
+- Optional: Minidump / Memory Dump Version: Type `SystemPropertiesAdvanced.exe` in the start menu --> Within the tab `Advanced`, go to the section `Startup and Recovery` --> Click on `Settings` --> Set to `Automatic memory dump`.
 
 ## Windows 10: Activate ESU updates
-- ESU / Extended Security Updates / Erweiterte Sicherheitsupdates
-- https://www.microsoft.com/de-de/windows/end-of-support --> oben im Reiter auf `Windows 10` klicken --> ein bisschen nach unten scrollen und etwa in der Mitte der Seite auf `Erweiterte Sicherheitsupdates erhalten` klicken --> es öffnet sich ein Fenster in den Windows-Einstellungen
+- Tags: ESU, Extended Security Updates, Erweiterte Sicherheitsupdates
+- https://www.microsoft.com/de-de/windows/end-of-support --> oben im Reiter auf `Windows 10` klicken --> ein bisschen nach unten scrollen und etwa in der Mitte der Seite auf `Erweiterte Sicherheitsupdates erhalten` klicken --> es öffnet sich ein Fenster in den Windows-Einstellungen.
 - https://www.microsoft.com/en-us/windows/end-of-support
 
 ## From Windows 10 to Windows 11: Update / Upgrade
@@ -658,7 +666,7 @@ Attempt nr. 2 to fix the issue:
 - Press `Win` + `R` and run the command `perfmon /rel` to launch the Reliability Monitor (Zuverlässigkeitsüberwachung).
 
 ## DISM and SFC
-- Use the System File Checker tool to repair missing or corrupted system files
+- Use the System File Checker tool to repair missing or corrupted system files.
 - https://support.microsoft.com/en-us/topic/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system-files-79aa86cb-ca52-166a-92a3-966e85d4094e
 
 ```
