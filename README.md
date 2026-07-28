@@ -353,7 +353,7 @@ Problem:
 - When trying to open a network share, Windows 10 does not show a prompt to enter the username and password
 
 Solution:
-- Enter the NAS hostname, username and password manually via `netplwiz`
+- Enter the NAS hostname, username and password manually via `netplwiz.exe`
 
 Question:
 - Why does Windows 10 not show the prompt to enter the username and password for a network share? Maybe it is related to the user permissions or rights?
