@@ -223,7 +223,63 @@ Sources:
 - https://www.pctipp.ch/praxis/windows/windows-10-netzwerke-umbenennen-so-gehts-2002978.html
 
 ## Rename a network connection and network adapter (part 2)
-todo
+Tags: friendly name, friendlyname, description, device description, device manager, ethernet adapter, internet adapter, network adapter, change adapter settings, Intel I217 (2), Intel I219-V (2)
+
+The text and explanations in this section are related to the following question on superuser.com (Stack Exchange):
+- Remove the number "(2)" / "2" from the Ethernet and Network Card on Windows 10
+- https://superuser.com/questions/1609209/remove-the-number-2-2-from-the-ethernet-and-network-card-on-windows-10
+
+### Where the "(2)" comes from
+There is a reason why a network connection is named `Ethernet (2)` (or in German: `Netzwerk (2)`):
+At some point in time there was a network connection with the name `Ethernet`; think of it as `Ethernet (1)`.
+
+When the new (current) network connection was established, Windows simply named this new connection `Ethernet (2)`.
+
+### Rename a network connection
+- Use the command `ncpa.cpl` to open the Network Connections window / Network Control Panel Applet / Netzwerkverbindungen.
+- Check if there is another network connection which uses the name that you want to use.
+- Right-click on the network connection that you want to rename and select `Rename`.
+- Restart your computer.
+
+### Rename a network adapter
+Before changing or renaming anything, you should check the network adapters section in the device manager. Other network adapters might exist, even if they are unused.
+- Open the Windows Device Manager with the command `devmgmt.msc`.
+- At the top, click on `View` and select `Show hidden devices`.
+- Go to the section `Network adapters`.
+- Check if there is any greyed-out (unused) device there.
+- If you know what you are doing, you can uninstall/remove the device.
+- For this step you can also use other software, for example DevManView from Nirsoft.
+
+#### Changing the network adapter name (method 1)
+- Open the Registry Editor (`regedit.exe`) and go to `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum`.
+- Right-click on the `Enum` folder, select `Find` and type in the name of the network adapter (or device) that you want to rename.
+  - Example: Let's assume the device that you want to rename is currently named `Intel(R) Ethernet Connection (2) I219-V`. Search the `Enum` folder for `I219-V` because this part of the name is very specific. Do not search for `Intel` because there might be many other devices from Intel.
+- Look for the entries `FriendlyName` and `DeviceDesc`.
+- Double-click on an entry to change its value.
+- Restart your computer.
+
+#### Changing the network adapter name (method 2)
+- Open the Windows Device Manager with the command `devmgmt.msc`.
+- Find your hardware device, right-click on it, and select `Properties`.
+- Go to the `Details` tab.
+- Click the `Property` drop-down menu and select `Driver key` (German: `Treiberschlüssel`).
+- Right-click on the long value shown in the box, click on `Copy`, and keep the value saved.
+- Open the Registry Editor (`regedit.exe`) and go to `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum`.
+- Right-click on the `Enum` folder, select `Find`, paste the copied driver key string, and search for it.
+- Look for the entries `FriendlyName` and `DeviceDesc`.
+- Double-click on an entry to change its value.
+- Restart your computer.
+
+#### Other options
+- If changing the values in `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum` does not work, you could also try this path: `HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Enum`.
+- If nothing seems to work, you could try to search the whole Windows registry for the name that you want to change. For example, you could search the whole registry for `I219-V` or `Intel(R) Ethernet Connection (2) I219-V`. Be very careful with this approach because you might end up in some location of the registry where changing anything might seriously damage your Windows operating system.
+- If the device you want to rename can be configured independently of your computer (e.g. a printer), then the name might come from the device itself (e.g. the device tells your computer: "My name is x"). In this case you could try to change the name on the device, e.g. change the hostname of a printer through the touch screen on that printer.
+
+### Links
+- Google: `windows change hardware device friendly name` or `windows change device friendly name`.
+- https://superuser.com/questions/1609209/remove-the-number-2-2-from-the-ethernet-and-network-card-on-windows-10
+- https://superuser.com/questions/573934/remove-the-extra-number-after-the-name-of-ethernet-connection
+- https://superuser.com/questions/1257859/remove-an-unused-hidden-network-connection-so-that-an-existing-name-can-be-reuse
 
 ## Change Windows hostname
 - Tags: Change Windows hostname, Change Windows PC name, Rename Windows PC
